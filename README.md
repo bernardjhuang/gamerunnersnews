@@ -1,4 +1,3 @@
-bernardjhuang.github.io
+# news.gamerunners.gg 
 =======================
-
-#news.gamerunners.gg
+News content for GameRunners.gg
