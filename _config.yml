@@ -1,13 +1,16 @@
 # Site settings
-title: GameRunners News
+title: GameRunners
 email: news@gamerunners.gg
-description: League of Legends community driven news articles. Read about pro level character analysis, theory crafting, past tournament breakdowns, and more!
+description: League of Legends community driven news articles. Read about pro champion analysis, damage theory crafting, past tournament breakdowns, and more!
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://news.gamerunners.gg" # the base hostname & protocol for your site
 twitter_username: GameRunnersGG
 
 # Build settings
 markdown: kramdown
+
+# Outputting
+permalink: :categories/:title
 
 gems:
   - jekyll-sitemap
