@@ -8,3 +8,6 @@ twitter_username: GameRunnersGG
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - jekyll-sitemap
