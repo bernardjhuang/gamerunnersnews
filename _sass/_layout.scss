@@ -5,9 +5,11 @@
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
+    background: white;
 
     a.site-title {
-        font-family: "PT Mono"
+        font-family: "PT Mono";
+        color: #d9534f;
     }
 
     // Positioning context for the mobile navigation icon
@@ -98,6 +100,7 @@
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
+    background: white;
 }
 
 .footer-heading {
@@ -177,6 +180,10 @@
     margin-left: 0;
     list-style: none;
 
+    h2 {
+        margin-bottom: 0px;
+    }
+
     > li {
         margin-bottom: $spacing-unit;
     }
@@ -191,7 +198,6 @@
     display: block;
     font-size: 24px;
 }
-
 
 
 /**
@@ -213,6 +219,10 @@
 
 .post-content {
     margin-bottom: $spacing-unit;
+
+    iframe {
+        margin-bottom: 15px;
+    }
 
     h2 {
         font-size: 32px;
