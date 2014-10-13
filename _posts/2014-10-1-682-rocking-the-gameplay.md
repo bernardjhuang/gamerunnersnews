@@ -9,10 +9,10 @@ author_profile: "3600 MMR player"
 date:   2014-10-1 
 categories: dota
 tags: tournament
-thumbnail: "/images/content/wca-disconnect-wall.png"
+thumbnail: "/images/content/increased_chances_to_come_back_dota2.png"
 ---
 
-<p>Few would be bold enough to push a groundbreaking patch amidst an ongoing tournament.</p>
+Few would be bold enough to push a groundbreaking patch amidst an ongoing tournament.
 <p>Not a problem for IceFrog, the mastermind of DOTA.</p>
 <p>Throughout the 8 years of me sticking around, from the rough edges of DOTA 1 (both in terms of graphics and strategy complexity) to the refined sophistication of DOTA 2, I've held nothing more but pure admiration for the Frog. An anonymous entity achieved mythical status amongst gamers, he's always had it clear: he wants DOTA to evolve constantly and will set himself no restrictions in doing so.</p>
 <p>The 6.82 patch bomb dropped when iLeague was under way - IceFrog took the current meta, tossed it around, added a splice of unexpected changes and redefined the structure of DOTA 2.</p>
