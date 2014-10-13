@@ -3,17 +3,10 @@ layout: post
 title:  ""
 description: ""
 author: ""
-date: 
+author_image: ""
+author_profile: ""
+date: YYYY-MM-D
 categories: 
 tags: 
 thumbnail: ""
 ---
-
-
-
-{% include share.html %}
-
-#### Author
-
-![]()
-  Name, bio

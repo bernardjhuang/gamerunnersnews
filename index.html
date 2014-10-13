@@ -23,7 +23,7 @@ layout: default
             <img class="thumbnail" src="{{ post.thumbnail }}" alt="{{ post.title thumbnail }}">
           </a>
         {% endif %}
-        {{ post.excerpt }}
+        <p>{{ post.excerpt }}</p>
         <a href="{{ post.url | prepend: site.baseurl }}">Continue reading</a>
       </li>
     {% endfor %}
