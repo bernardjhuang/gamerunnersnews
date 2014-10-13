@@ -11,9 +11,12 @@ categories: lol
 tags: pro-analysis
 thumbnail: "/images/content/bjergsen-level-2-advantage.png"
 ---
+
+Welcome to GameRunner’s look at Bjergsen’s Yasuo – today we’ll be analyzing the small things a pro player can do to make the most out of their champion. Bjergsen played Yasuo twice at the 2014 Worlds, going 2-0, and we’ll be watching both games closely to see what we can learn from his play.
+
 ## Dominating Lane and Helping Ganks 
 
-### SK Gaming versus Team SoloMid: Worlds 2014 Group B, Game 
+### SK Gaming versus Team SoloMid: Worlds 2014 Group B, Game 2
 
 Since Yasuo becomes such a dominant threat late in the game, especially in the hands of a player as skilled as Bjergsen, it’s important to understand how to effectively lane him. Gaining an early edge and leaping off to a good start can be the key to snowballing a game out of control and taking easy wins. 
 
@@ -57,8 +60,6 @@ At around ten minutes into the match, TSM is up about 2.5k gold thanks to a few 
 Notice how Bjergsen always moves to pressure the lane where Looper’s Dr. Mundo wants to farm. This is because he recognizes a heavy item disparity: thanks to the fact that Dyrus was playing Ryze this game versus Looper, the Mundo is completely unprepared to deal with a Yasuo since he itemized heavy magic resistance early. Despite the fact that Bjergsen has no completed items when he begins his split-push, the armorless Mundo has absolutely no possibility of contesting Bjersen’s farm or fighting him in a straight up one versus one. By the time Looper picks up a Chain Vest a few minutes later, Bjergsen has been able to hit his first power spike with a completed Static Shiv, cementing his dominance in the match-up.
 
 ![Early item disparity](/images/content/early-item-disparity.png)
-
-*The early item disparity: see the almost complete Statikk Shiv versus the total lack of armor on Mundo.*
 
 Importantly, Bjergsen never plays too aggressive, but also doesn’t allow Looper any room to breathe by constantly shoving the wave to the tower. He wards his flanks carefully and backs often to minimalize risk while still keeping Looper busy at all times.
 
