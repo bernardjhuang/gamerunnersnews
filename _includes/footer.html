@@ -2,13 +2,13 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading"><a onClick="_gaq.push(['_trackEvent', 'GameRunners click']);" href="http://www.gamerunners.gg/">{{ site.title }}</a></h2>
+    <h2 class="footer-heading"><a onClick="_gaq.push(['_trackEvent', 'click', 'GameRunners click']);" href="http://www.gamerunners.gg/">{{ site.title }}</a></h2>
 
     <div class="footer-col-wrapper">
       <div class="footer-col  footer-col-1">
         <ul class="contact-list">
           <li>Want to contribute?</li>
-          <li><a onClick="_gaq.push(['_trackEvent', 'Email news click']);" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          <li><a onClick="_gaq.push(['_trackEvent', 'click', 'Email news click']);" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
           <br>
           {% if site.twitter_username %}
           <li>
