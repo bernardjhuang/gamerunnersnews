@@ -2,7 +2,7 @@
 layout: post
 title:  "Battle of the Chinese Giants - LMQ vs OMG"
 description: "While the American-based LMQ did stir up a lot of fans’ hearts, in the end, despite a good season, OMG was a wall too high to climb."
-author: "Alex Krivlov"
+author: "Alex Kirilov"
 author_image: "https://media.licdn.com/mpr/mpr/p/3/005/016/241/2f5007d.jpg"
 author_profile: "LoL Specialist"
 date: 2014-10-4

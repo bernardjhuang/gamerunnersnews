@@ -2,7 +2,7 @@
 layout: post
 title:  "Blizzard and its Bots"
 description: "Ever since the dawn of gaming, and consequently Blizzard's foundation, back in 1991, a lot of their most-known games have been plagued by different hacks and bots."
-author: "Alex Krivlov"
+author: "Alex Kirilov"
 author_image: "https://media.licdn.com/mpr/mpr/p/3/005/016/241/2f5007d.jpg"
 author_profile: "Hearthstone Specialist"
 date: 2014-10-13
