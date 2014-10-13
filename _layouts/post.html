@@ -12,8 +12,10 @@ layout: default
     {{ content }}
     {% include share.html %}
     <h4> Author </h4>
-    <img class="author_image" src="{{ page.author_image }}" alt="{{ page.author }}">
-    {{ page.author }}, {{ page.author_profile }}
+    {% if page.author_image %}
+      <img class="author_image" src="{{ page.author_image }}" alt="{{ page.author }}">
+    {% endif %}
+    <strong>{{ page.author }}</strong>, {{ page.author_profile }}
   </article>
 
 </div>
