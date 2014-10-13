@@ -24,7 +24,7 @@ With that in mind, let’s take a look at Team SoloMid versus SK Gaming from the
 
 Matched up against Jesiz’s Orianna, Bjergsen knows that the first few minutes will determine the rest of the lane. Jesiz has the ranged auto-attacks to harass him with and the ball provides an excellent zoning tool, and falling behind would be devastating. That being said, Yasuo has the pushing advantage and Bjergsen takes full advantage – he hits level 2 first and immediately presses forward, taking a good chunck of Jesiz life bar before retreating with a swift Sweeping Blade through the minions, Steel Tempest onto Jesiz mixed with two auto-attacks and then Sweeping Blade out. 
 
-![bjergsen setup advantage](/images/content/bjergsen-setup-1.png)
+![bjergsen level 2 advantage](/images/content/bjergsen-level-2-advantage.png)
 
 Right from level two, Bjergsen uses Yasuo’s high damage and mobility to set the tempo of the lane and put Jesiz on his back foot immediately. Just because he has the upper hand, however, does not mean that Bjergsen plays recklessly. He respects the burst of Orianna and the gank potential of SK’s jungler and uses his advantage not to kill Jesiz, but to zone him back and keep him down on gold and experience.
 
@@ -36,7 +36,7 @@ Even once he has a major advantage in lane, Bjergsen plays calmly and continues 
 
 Solo-queue Yasuos, take note: trading one for one when you are ahead IS NOT WORTH IT. The shut-down gold to your enemy and the potential experience gain is simply not worth giving away. Bjergsen demonstrates that while kills are important to a successful laning phase on Yasuo, it is still possible to gain, control and force a lead purely through smart laning and ability use.
 
-![bjergsen level 2 advantage](/images/content/bjergsen-level-2-advantage.png)
+![bjergsen setup advantage](/images/content/bjergsen-setup-1.png)
 
 Another thing to take away from this early game is how Bjergsen eneables and assists his jungler for ganks. Like I said earlier, Bjergsen almost always triggers his knock up from the dashing position – especially with a jungler like Lee Sin, who is highly mobile, starting a gank off with an almost unavoidable knock up is the perfect setup for follow-up skillshots. Both times Amazing ganks, Bjergsen starts it off with a tornado (granted the second one was a skillshot, but that’s because he wasn’t in range for the Sweeping Blade). If your jungler does not have a disable, it’s almost always better to wait until you have the knock up before the gank comes in. 
 
