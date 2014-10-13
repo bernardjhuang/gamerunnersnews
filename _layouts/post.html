@@ -10,6 +10,10 @@ layout: default
 
   <article class="post-content">
     {{ content }}
+    {% include share.html %}
+    <h4> Author </h4>
+    <img class="author_image" src="{{ page.author_image }}" alt="{{ page.author }}">
+    {{ page.author }}, {{ page.author_profile }}
   </article>
 
 </div>

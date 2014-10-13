@@ -1,6 +1,7 @@
 /**
  * Site header
  */
+
 .site-header {
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
@@ -220,6 +221,10 @@
 .post-content {
     margin-bottom: $spacing-unit;
 
+    img.author_image {
+        max-width: 100px;
+    }
+
     iframe {
         margin-bottom: 15px;
     }
@@ -247,4 +252,11 @@
             font-size: 18px;
         }
     }
+}
+
+/**
+ * Custom
+ */
+ img.thumbnail {
+    margin: 15px 0;
 }

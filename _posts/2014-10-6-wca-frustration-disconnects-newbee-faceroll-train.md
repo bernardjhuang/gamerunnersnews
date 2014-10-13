@@ -2,10 +2,12 @@
 layout: post
 title:  "WCA: Frustration, Disconnects, and Newbee On The Faceroll Train Again"
 description: "Constant disconnects and server issues turned WCA into a frustration fest for everyone involved – to the point of utter desperation for some casters."
-author: Alex Dimitrov
+author: "Alexander Dimitrov"
+author_image: "https://odesk-prod-portraits.s3.amazonaws.com/Users:xanderdi:PortraitUrl_100?AWSAccessKeyId=1XVAX3FNQZAFC9GJCFR2&Expires=2147483647&Signature=H1JpjAmGNcCnRphLdBmJLwkIhfk%3D&1412137708"
+author_profile: "3600 MMR player"
 date:   2014-10-6 
 categories: dota
-tags: dota tournament
+tags: tournament
 thumbnail: "/images/content/wca-disconnect-wall.png"
 ---
 
@@ -91,10 +93,3 @@ The “Second place” curse held true for Cloud9 once more in WCA. For Newbee, 
 WCA had so much potential and I feel really bad that it was drowned in connectivity and server issues. I really hope the organizers learn from what happened and next time we'll be witnessing an event that matches the professionalism of the teams that participate in it.
 
 Meanwhile, ESL New York is approaching – another promising esports event for all DOTA 2 fans. The competition will be fierce again, including participation from the side of a newly formed Team Secret. Combining the powers of ex-Na'Vi Kuroky and Puppey, ex-Alliance S4 and ex-Fnatic BigDaddy and Simbaaa, it will promise high class entertainment and action for all spectators.
-
-{% include share.html %}
-
-#### Author {{post.author}}
-
-![Alex Dimitrov](https://odesk-prod-portraits.s3.amazonaws.com/Users:xanderdi:PortraitUrl_100?AWSAccessKeyId=1XVAX3FNQZAFC9GJCFR2&Expires=2147483647&Signature=H1JpjAmGNcCnRphLdBmJLwkIhfk%3D&1412137708)
-  Alexander Dimitrov, <a href="http://www.dotabuff.com/players/109464717">3600 MMR player</a> 

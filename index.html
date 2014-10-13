@@ -4,7 +4,7 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">LoL News</h1>
+  <h1 class="page-heading">League of Legends Coaching Content</h1>
 
   <ul class="post-list">
     {% for post in site.categories.lol limit: 10 %}
@@ -24,10 +24,9 @@ layout: default
           </a>
         {% endif %}
         {{ post.excerpt }}
+        <a href="{{ post.url | prepend: site.baseurl }}">Continue reading</a>
       </li>
     {% endfor %}
   </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
