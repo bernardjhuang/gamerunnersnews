@@ -87,15 +87,3 @@ While the American-based LMQ did stir up a lot of fans’ hearts, in the end, de
 <ul>
   <li><a href="http://lol.esportspedia.com/wiki/">http://lol.esportspedia.com/wiki/</a></li>
 </ul>
-<!--
-  <img src="" alt="Alex Krivlov" >
-  <h3> Alexander Krivlov </h3>
-   LoL Specialist 
-
-{% include share.html %}
-
-#### Author
-
-![]()
-  Name, bio
--->
