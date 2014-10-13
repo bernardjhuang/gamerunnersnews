@@ -4,7 +4,7 @@ title:  "The Most Misunderstood Stat About LoL - Part 1"
 description: "In this article, I will use Armor Penetratin to refer to both Physical Armor Penetration and Magic Penetration as well. Also, when I say Armor, I am referring to Magic Resist as well to save text space. I will also be using Armor Penetration to refer to Armor Reduction as well."
 author: "Samuel Kuo"
 author_profile: "Invented the troam'er role (troll and roam) and the triple brut. build (Youmu's Ghost Blade, Black Cleaver, and The Brutalizer)"
-date: 2014-10-12
+date: 2014-10-11
 categories: lol
 tags: theorycraft
 ---
