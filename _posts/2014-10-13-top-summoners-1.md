@@ -21,7 +21,9 @@ What most people understand about Auto Attack is that its speed is determined by
 When we right click an opposing target, our Champion will begin to Auto Attack. When our Champions begins to attack, three things will happen:
 
 1) Our Champion charges up to Auto Attack.
+
 2) Our Champion attacks.
+
 3) Our Champion stands still. This is the Animation Delay! 
 
 ## Animation Delay
