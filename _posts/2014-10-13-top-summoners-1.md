@@ -56,11 +56,11 @@ By moving to cancel Animation Delay, we gain advantages:
 2) We can kite (run while hitting) without losing any Attack Speed and damage output. For example, if an Assassin is chasing us, we can move backwards or sideways during the third phase of Auto Attack, and then shoot back. This allows us to avoid being hit at no cost. 
 Here's a good example of SKT1 Piglet kiting TSM Dyrus and TSM Reginald:
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/oXFDaqeI4Lc" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/oXFDaqeI4Lc?start=102" frameborder="0" allowfullscreen></iframe>
 
 3) We can dodge skillshots. CLG Doublelift often weaves left and right during the third phase of his Auto Attack to maximize dodging against spells:
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/HrtOLPV1ZMo" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/HrtOLPV1ZMo?start=221" frameborder="0" allowfullscreen></iframe>
 
 4) We can chase better. If we were to just right click our opposing target, our Champion would freeze during the third phase of Auto Attack. Therefore, we want to manually click our Champion to move forward until the Animation Delay phase ends, and continue hitting.
 
