@@ -5,7 +5,7 @@ description: "The diversity and overall quality of the games of ESL holds a prom
 author: "Kyril Kotashev"
 author_image: "https://odesk-prod-portraits.s3.amazonaws.com/Users:gildordorn:PortraitUrl_100?AWSAccessKeyId=1XVAX3FNQZAFC9GJCFR2&Expires=2147483647&Signature=6IyTnCOz%2FUHfA0nB3RMF7SJFVdU%3D&1412202539"
 author_profile: "Dota 2 Specialist"
-date: 2014-10-5
+date: 2014-10-19
 categories: dota
 tags: tournament
 thumbnail: "/images/content/esl-ny-2014.jpg"
