@@ -7,7 +7,7 @@ author_profile: "Invented the troam'er role (troll and roam) and the triple brut
 date: 2014-10-20
 categories: lol
 tags: theorycraft
-thumbnail: "/images/content/armorreturns1.jpg"
+thumbnail: "/images/content/hxa-cho-gath.png"
 ---
 
 Ever wondered what your Health to Armor ratio should be? If so, then you're reading the right article!
