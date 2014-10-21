@@ -8,6 +8,7 @@ date: 2014-10-20
 categories: lol
 tags: theorycraft
 thumbnail: "/images/content/hxa-cho-gath.png"
+excerpt: "Ever wondered what your Health to Armor ratio should be? If so, then you're reading the right article! When it comes to optimized Health to Armor ratio, there are mainly three factors to building the perfect build: the Diminishing % Returns of stacking Health and Armor, the cost efficiency that the game develepors have set, and average Physical and Magic damage the opposing team has."
 ---
 
 Ever wondered what your Health to Armor ratio should be? If so, then you're reading the right article!
