@@ -7,7 +7,7 @@ author_profile: "Invented the troam'er role (troll and roam) and the triple brut
 date: 2014-10-21
 categories: lol
 tags: theorycraft
-thumbnail: "/images/content/hxa-cho-gath.png"
+thumbnail: ""
 excerpt: ""
 ---
 
@@ -31,25 +31,25 @@ To determine the cost of stats per unit, we take the cheapest item of a given un
 
 ![HXA 2 Cloth Armor]()
 
-**(image from leagueoflegends.wikia.com)**
+*(image from leagueoflegends.wikia.com)*
 
 Cloth Armor is 300g. It gives 15 Armor; so if we divide 300 gold by 15 Armor, we find that we are paying **20 gold per unit of Armor**. Magic Resist is actually the same cost as well. How convenient!
 
 Let's check how much Health costs.
 
-**(image from leagueoflegends.wikia.com)**
+*(image from leagueoflegends.wikia.com)*
 
 Ruby Health provides 150 Health at the cost of 400 gold. Dividing 400 gold by 150 Health, we get 8/3, or about **2.67 gold per Health stat**.
 
 Now let's take a look at some of our offense stats.
 
-**(image from leagueoflegends.wikia.com)**
+*(image from leagueoflegends.wikia.com)*
 
 Long Sword provides 10 AD at the cost of 360 gold. Dividing 360 by 10, we see that 1 AD costs 36 gold.
 
 And Dagger...
 
-**(image from leagueoflegends.wikia.com)**
+*(image from leagueoflegends.wikia.com)*
 
 Dagger costs 450 gold and provides 15% Attack Speed. 450/15 = **30 gold per unit of Attack Speed (AS)**.
 
@@ -163,7 +163,7 @@ Of course, it may be argueable that having more Armor is better for laning since
 
 ## Items of Interest
 
-**(image from leagueoflegends.wikia.com)**
+*(image from leagueoflegends.wikia.com)*
 
 Sunfire Cape is a great early game item that offers us a balanced defensive and offensive stat. The 450 health and 45 bonus Armor easily our ideal ratio against only physical damage:
 
@@ -172,7 +172,7 @@ Sunfire Cape is a great early game item that offers us a balanced defensive and 
 Though Sunfire Cape does not provide Attack Speed, Sunfire's Cape passive that deals anywhere from 26-43 damage is mathematically the same as bonus added to AD if we were at an attack rate of 1 per second. However, during late-game, we should sell Sunfire Cape because our AD stats become more valuable as our Attack Speed stat rises.
 
 
-**(image from leagueoflegends.wikia.com)**
+*(image from leagueoflegends.wikia.com)*
 
 Trinity Force is one of those items we see every game. It's flexible as it provides many different stat ranging from both AD to AP. It is also used as a replacement for boots late-game when items are maxed. However, what really makes Trinity Force stand out is its passive - Spellblade.
 
@@ -181,7 +181,7 @@ Trinity Force is one of those items we see every game. It's flexible as it provi
 Take for example, Irelia has a base AD of 56. 200% of 56 is 112 damage. Therefore, if we can trigger Spellblade immediately when it comes off cooldown, we have an increased DPS of 112/1.5 = 74.67!  This boost to DPS in addition to the +30 AD, +30% Attack Speed, and +10 Crit. Rate makes Trinity Force perhaps the only damage we may need. It then goes by no surprise then that we see many builds in current meta that buys Trinity Force as their only damage item.
 
 
-**(image from leagueoflegends.wikia.com)**
+*(image from leagueoflegends.wikia.com)*
 
 Blade of the Ruined King is a highly cost effective item for the damage-output it provides.
 
@@ -190,12 +190,12 @@ Against a 1000 HP target, Blade of the Ruined King gives +80 damage. At 2000 hp,
 Another super useful thing about Blade of the Ruined King is its passive. The passive helps Bruisers stick to their target or to just give them an extra burst. 
 
 
-**(image from leagueoflegends.wikia.com)**
+*(image from leagueoflegends.wikia.com)*
 
 Frozen Mallet is a great bruiser item, though expensive, that provides a massive +700 Health, and a good +30 Attack Damage. But forget those puny stats! Heavy Mallet is bought for its passive to slow the target. This passive has helped many Bruisers in the past that had trouble sticking to targets. However, with the introduction of Blade of the Ruined King, Frozen Mallet  fell out of meta. Frozen Mallet is still a useful item, but it is just not cost-effective to buy early. 
 
 
-**(image from leagueoflegends.wikia.com)**
+*(image from leagueoflegends.wikia.com)*
 
 Wit's End is a great item that comboes well with Frozen Mallet. Frozen Mallet helps us stick to the target to keep our Wit's End passive effect active. 
 
@@ -205,7 +205,7 @@ Wit's End 42 bonus Magic Damage is similar to having +42 AD. Despite providing g
 
 To give an example of an ideal Bruiser build, let's take a look at Warwick. Warwick is a very flexible Champion that can fall under the category of Tank, Bruiser, and Assassin. I've even seen many AP Warwick as well as AD Warwick. We'll be focusing on an Auto Attack Based Bruiser Warwick build.
 
-**(image from leagueoflegends.wikia.com)**
+*(image from leagueoflegends.wikia.com)*
 
 At level 18, Warwick has 2192 Health, 83 Armor, 52.5 Magic Resist, 118 AD, and 49% Attack Speed. 
 
@@ -252,7 +252,7 @@ Randuin's Omen is basically the best Armor item in the game. We see this item ju
 
 Because we are looking at a full end-game build, we will take Elixer of Fortitude into account. 
 
-**(image from leagueoflegends.wikia.com)**
+*(image from leagueoflegends.wikia.com)*
 
 Elixer of Fortitude provides us 235 Health and 15 Damage.
 
@@ -260,7 +260,7 @@ With these 2 must-buy items and our Elixer of Fortitude, our defensive stat now 
 
 Our next four items are very flexible. 
 
-Path 1: We can build the Frozen Mallet and Wit's End Combo. Frozen Mallet nearly completes our Health quota. Frozen Mallet and Wit's End gives us mathematically +72 AD bringing us to 306 AD and Wit's End brings us to 225% Attack Speed and 159 Magic Resist. 
+**Path 1:** We can build the Frozen Mallet and Wit's End Combo. Frozen Mallet nearly completes our Health quota. Frozen Mallet and Wit's End gives us mathematically +72 AD bringing us to 306 AD and Wit's End brings us to 225% Attack Speed and 159 Magic Resist. 
 
 We then can complete our Armor requirements with Guardian Angel.
 
@@ -268,8 +268,9 @@ Guardian Angel brings us to 211 Armor and 209 Magic Resist meeting mitigation st
 
 We are now just short on AD and Attack Speed. Our next best option, since we haven't boughten a boot, would be Trinity Force since it provides a speed boost. Trinity Force's spellblade passive and +30 AD will help us hit our AD quota. We hit just over max Attack Speed, but it is okay since the opposing team probably has Randuin's Omen and Frozen Heart.
 
-Path 2: Let's focus more on sustain this time. We can buy Blade of the Ruined King. This item provides so much damage output that it fulfills our AD need. It's passive helps us stick onto targets. It provides Life Steal which will synergize well with Spirit Visage. It also brings us to 215 Attack Speed which is pretty much all we need.
+**Path 2:** Let's focus more on sustain this time. We can buy Blade of the Ruined King. This item provides so much damage output that it fulfills our AD need. It's passive helps us stick onto targets. It provides Life Steal which will synergize well with Spirit Visage. It also brings us to 215 Attack Speed which is pretty much all we need.
 
 We then just need Health, Armor, and Magic Resist. Let's replace Randuin's Omen with a Frozen Heart for the 20% Cooldown Reduction and massive Armor boost. The 20% Cooldown Reduction will help Warwick spam his Hungering Strike more often. Let's next buy a Warmog's Armor for all the Health we need, and a nice Health Regeneration that synergizes well with Spirit Visage. Let's then purchase a Wit's End to boost our Magic Resist. We will hit 265 Attack Speed, but it's okay since the opponent team probably has Frozen Heart and Randuin's Omen. Our next option is a Mercurial's Tread or Trinity Force for our speed needs. The only stat we are missing would then be Magic Resist. We could replace Warmog's Armor with a Guardian Angel. Or we can adjust the Rune Page a bit to fit in the remaining Magic Resist as well. 
 
 As we can see, matching our Item Build, Rune Page, and  Masteries with a Champion in accordance to optimum stat ratios takes some planning. There is definitely a lot of ways to achieve these ratios. I simply only listed 2 items build for Warwick, but I'm sure you have the creativity to invent a new one! 
+g
