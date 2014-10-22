@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Calculating Optimum Stat Ratios - Part 2: Health x Armor x Offense"
-description: ""
+description: "Bruisers have some of the most flexible but complicated item build. Bruisers must invest heavily in damage items to be able to take down enemy carries."
 author: "Samuel Kuo"
-author_profile: ""
+author_profile: "Invented the troam'er role (troll and roam) and the triple brut. build (Youmu's Ghost Blade, Black Cleaver, and The Brutalizer)"
 date: 2014-10-21
 categories: lol
 tags: theorycraft
@@ -273,7 +273,3 @@ Path 2: Let's focus more on sustain this time. We can buy Blade of the Ruined Ki
 We then just need Health, Armor, and Magic Resist. Let's replace Randuin's Omen with a Frozen Heart for the 20% Cooldown Reduction and massive Armor boost. The 20% Cooldown Reduction will help Warwick spam his Hungering Strike more often. Let's next buy a Warmog's Armor for all the Health we need, and a nice Health Regeneration that synergizes well with Spirit Visage. Let's then purchase a Wit's End to boost our Magic Resist. We will hit 265 Attack Speed, but it's okay since the opponent team probably has Frozen Heart and Randuin's Omen. Our next option is a Mercurial's Tread or Trinity Force for our speed needs. The only stat we are missing would then be Magic Resist. We could replace Warmog's Armor with a Guardian Angel. Or we can adjust the Rune Page a bit to fit in the remaining Magic Resist as well. 
 
 As we can see, matching our Item Build, Rune Page, and  Masteries with a Champion in accordance to optimum stat ratios takes some planning. There is definitely a lot of ways to achieve these ratios. I simply only listed 2 items build for Warwick, but I'm sure you have the creativity to invent a new one! 
-
-
-
-
