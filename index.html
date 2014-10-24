@@ -15,7 +15,9 @@ layout: default
         <p>
           <span class="post-meta">
             {{ post.date | date: "%b %-d, %Y" }}
-            {% if post.author %} 
+            {% if post.author_coach %} 
+              by <a href="{{ post.author_coach }}">{{ post.author }}</a>
+            {% else %}
               by {{ post.author }}
             {% endif %}
           </span>
