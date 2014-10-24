@@ -4,6 +4,7 @@ title:  "The Most Misunderstood Stat About LoL - Part 2"
 description: "Welcome to part 2 of The Most Misunderstood Stat in League of Legends. Here, we'll be decoding the enigma that is Armor Penetration."
 author: "Samuel Kuo"
 author_profile: "Invented the troam'er role (troll and roam) and the triple brut. build (Youmu's Ghost Blade, Black Cleaver, and The Brutalizer)"
+author_coach: "http://gamerunners.gg/coaches/3"
 date: 2014-10-12
 categories: lol
 tags: theorycraft

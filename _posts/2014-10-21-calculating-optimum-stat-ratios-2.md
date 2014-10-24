@@ -4,6 +4,7 @@ title:  "Calculating Optimum Stat Ratios - Part 2: Health x Armor x Offense"
 description: "Bruisers have some of the most flexible but complicated item build. Bruisers must invest heavily in damage items to be able to take down enemy carries."
 author: "Samuel Kuo"
 author_profile: "Invented the troam'er role (troll and roam) and the triple brut. build (Youmu's Ghost Blade, Black Cleaver, and The Brutalizer)"
+author_coach: "http://gamerunners.gg/coaches/3"
 date: 2014-10-21
 categories: lol
 tags: theorycraft
