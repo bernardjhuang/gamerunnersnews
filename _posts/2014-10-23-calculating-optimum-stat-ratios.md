@@ -5,7 +5,7 @@ description: "Ever wondered what your Health to Armor ratio should be? If so, th
 author: "Samuel Kuo"
 author_profile: "Invented the troam'er role (troll and roam) and the triple brut. build (Youmu's Ghost Blade, Black Cleaver, and The Brutalizer)"
 author_coach: "http://gamerunners.gg/coaches/3"
-date: 2014-10-20
+date: 2014-10-23
 categories: lol
 tags: theorycraft
 thumbnail: "/images/content/hxa-cho-gath.png"
