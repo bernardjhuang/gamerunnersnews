@@ -8,6 +8,7 @@ author_coach: ""
 date: 2014-10-27
 categories: lol
 tags: theorycraft
+thumbnail: "/images/content/armor-zed.jpg"
 ---
 
 Hi. I'm Sammy, an enthusiast of League of Legends since launch (and of MOBA since Defense of the Ancients). I'm here to shed light on various aspects of League of Legends that may be unknown many Summoners in the public scene and perhaps even alien information to the LCS Summoners! In this article, we will look at what I believe is the most misunderstood stat in League of Legends: Armor Penetration. It is definitely one of the most situational stat in the game which gives it its complexity. However, from item building to play style, I see that people are building Flat Armor Penetration inappropriately in such a way that it would hinder one's ability to play optimally. 
