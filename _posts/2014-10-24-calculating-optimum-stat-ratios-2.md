@@ -68,7 +68,7 @@ I want to point out that not all items in League of Legends do not necessarily f
 
 **As attractive as Crit Strikes are in this game, the Crit. Rate stat is generally not viable for Bruisers. Crit Rate is dependent on many other offense items, such as a large quantity of AD, Attack Speed, and Armor Penetration. We simply do not have room for that much offensive items. Rather, building on-hit effect items for offense is much more cost-efficient and more independent items than Crit items which rely on other stats (AD, Attack Speed) to be effective. Since we are building as a Bruiser, we need to find the highest damaging items done in the least amount of item slots.
 
-**I did not include Armor Penetration. This does not mean that Armor Penetration is not viable. If you're interesting in an Armor Penetration build, check [this article for all the information you'll ever need to know about Armor Penetration](../../lol/the-most-misunderstood-stat-about-lol-1/).
+**I did not include Armor Penetration. This does not mean that Armor Penetration is not viable. If you're interesting in an Armor Penetration build, check [this article for all the information you'll ever need to know about Armor Penetration](../../lol/hidden-gems-armor-penetration-1/).
 
 ## True Value
 
