@@ -60,9 +60,9 @@ If we had 100 units (these units can be anything, such as Health, AD, Armor, etc
 
 2 group example:
 
-48 x 52 =  2496
+48 x 52 = 2496
 
-49 x 51 =  2499
+49 x 51 = 2499
 
 50 x 50 = 2500
 
