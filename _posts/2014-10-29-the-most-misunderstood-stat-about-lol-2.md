@@ -37,7 +37,7 @@ Then there's the part of the curve that is very steep. This time, let's take a l
 
 So how does this change the rules of the game when we are thinking of Armor Penetration? 
 
-The More, The Better!
+## The More, The Better!
 
 If we build one Flat Armor Penetration item, we ought to stack enough of this stat to at least hit the Sweet Spot range where Armor Penetration is most potent. 
 
