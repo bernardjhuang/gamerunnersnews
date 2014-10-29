@@ -50,7 +50,7 @@ Overall, there is a lot of small things to take away from this laning phase.
 
 ## Split Pushing, the Mid-Game and Closing it Out
 
-### Samsung Blue versus Team SoloMid: Worlds 2014 Quarterfinals, Game 3
+### Samsung White versus Team SoloMid: Worlds 2014 Quarterfinals, Game 3
 
 Part of what makes Bjergsen’s Yasuo play so strong is a deep understanding of how, when and where to split push effectively. There is a lot to learn from how Bjergsen applies pressure through split-pushing, but also how he leverages a lead to its full advantage to close out a game.
 
