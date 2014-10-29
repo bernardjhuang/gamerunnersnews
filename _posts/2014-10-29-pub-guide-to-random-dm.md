@@ -5,7 +5,7 @@ description: "Playing the “normal” Dota 2 modes and climbing the MMR ladder 
 author: "Alexander Dimitrov"
 author_image: "https://odesk-prod-portraits.s3.amazonaws.com/Users:xanderdi:PortraitUrl_100?AWSAccessKeyId=1XVAX3FNQZAFC9GJCFR2&Expires=2147483647&Signature=H1JpjAmGNcCnRphLdBmJLwkIhfk%3D&1412137708"
 author_profile: "3600 MMR player"
-date:   2014-10-6 
+date:   2014-10-29 
 categories: dota
 tags: tournament
 thumbnail: "/images/content/wca-disconnect-wall.png"
