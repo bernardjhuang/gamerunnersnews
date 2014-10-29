@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hidden Gems: Armor Penetration - Part 2."
+title:  "Hidden Gems: Armor Penetration - Part 2"
 description: "Welcome to part 2 of Hidden Gems: Armor Penetration. Here, we'll be decoding the enigma that is Armor Penetration to unveil hidden OPness!"
 author: "Samuel Kuo"
 author_profile: "Invented the troam'er role (troll and roam) and the triple brut. build (Youmu's Ghost Blade, Black Cleaver, and The Brutalizer)"
