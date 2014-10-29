@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hidden Gems: Armor Penetration, The Best Lucian Build, Ever: Part 2"
+title:  "Hidden Gems: Armor Penetration - Part 2."
 description: "Welcome to part 2 of Hidden Gems: Armor Penetration. Here, we'll be decoding the enigma that is Armor Penetration to unveil hidden OPness!"
 author: "Samuel Kuo"
 author_profile: "Invented the troam'er role (troll and roam) and the triple brut. build (Youmu's Ghost Blade, Black Cleaver, and The Brutalizer)"
@@ -15,11 +15,11 @@ Welcome to part 2 of Hidden Gems: Armor Penetration. Here, we'll be decoding the
 
 In [part 1](../../lol/hidden-gems-armor-penetration-1/), we gave ground to some of the fundamentals of Flat Armor Penetration/Reduction. We saw that this stat is effective against low-Armored target and outlined three keypoints to follow when thinking about making that Armor Penetration purchase.
 
--The first is that Flat Armor Penetration/Reduction is an effective early game stat when everybody has a low amount of Armor. 
+* The first is that Flat Armor Penetration/Reduction is an effective early game stat when everybody has a low amount of Armor. 
 
--The second was that we should target low-Armored target which is the squish in the enemies backline.
+* The second was that we should target low-Armored target which is the squish in the enemies backline.
 
--But realizing that we need high mobility to get in range of squish, our third keypoint was that Flat Armor Penetration/Reduction is effective on Assassin-type class champions that have the mobility to jump to the enemies backline where all the low-Armored squishies are. 
+* But realizing that we need high mobility to get in range of squish, our third keypoint was that Flat Armor Penetration/Reduction is effective on Assassin-type class champions that have the mobility to jump to the enemies backline where all the low-Armored squishies are. 
 
 EZ PZ right? Great! Now we're ready to jump to the more advanced aspects of Armor Penetration.
 
@@ -70,30 +70,31 @@ When thinking about Armor Penetration in relation to Champion Selection, keep th
 
 Crushing reduces the opponents Armor by 30%. This will help us reach hitting the Sweet Spot range.
 
--Or we could pick a champion with high mobilty and damage to dunk enemy backliners that have low Amor in the Sweet Spot range. Some examples of champions that could achieve this are  Kha'zix, Le Blanc, Talon, Wu Kong, Master Yi, etc... 
+* Or we could pick a champion with high mobilty and damage to dunk enemy backliners that have low Amor in the Sweet Spot range. Some examples of champions that could achieve this are  Kha'zix, Le Blanc, Talon, Wu Kong, Master Yi, etc... 
 
--Or we should just pick a champion that has very low AD or AP ratio. An example with be Karthus and Xin Zhao with ratios as low as 20%. Because their AD or AP ratio is low, these champions would benefit much more from Armor Penetration stacking than AP/AD stacking.
+* Or we should just pick a champion that has very low AD or AP ratio. An example with be Karthus and Xin Zhao with ratios as low as 20%. Because their AD or AP ratio is low, these champions would benefit much more from Armor Penetration stacking than AP/AD stacking.
 
--When thinking of team composition, we might want to consider an AOE Armor Penetration team set-up. Examples would be Nasus's Spirit Fire which reduces enemy Armor by 40, Jarvan IV's Dragon Strike that reduces armor by 26% AOE Taric's Shatter which reduces Armor by 30% AOE, Corki's Gatling Gun for total of 40 Flat Armor Reduction AOE, etc... Wouldn't it be awesome if the opposing Summoners all have 0 Armor?
+* When thinking of team composition, we might want to consider an AOE Armor Penetration team set-up. Examples would be Nasus's Spirit Fire which reduces enemy Armor by 40, Jarvan IV's Dragon Strike that reduces armor by 26% AOE Taric's Shatter which reduces Armor by 30% AOE, Corki's Gatling Gun for total of 40 Flat Armor Reduction AOE, etc... Wouldn't it be awesome if the opposing Summoners all have 0 Armor?
 
 ## The Set Up
 
--Make sure to get three points of Devastating Strike under Offensive Masteries for +6% Armor Penetration.
+**Make sure to get three points of Devastating Strike under Offensive Masteries for +6% Armor Penetration.**
 
 ![armor returns - lol theorycrafting - armor devastating strikes](/images/content/armor-devastating-strikes.jpg)
 
--Consider Exhaust. It is effective with an Armor Penetration build because Exhaust provides 10 Armor Reduction.
+**Consider Exhaust. It is effective with an Armor Penetration build because Exhaust provides 10 Armor Reduction.**
 
 ![armor returns - lol theorycrafting - exhaust](/images/content/armor-exhaust.jpg)
 
--Get a full Armor Penetration page for 19 Flat Armor Penetration or 14 Flat Magic Penetration.
+**Get a full Armor Penetration page for 19 Flat Armor Penetration or 14 Flat Magic Penetration.**
 
 ![armor returns - lol theorycrafting - full armor penetration wu kong](/images/content/armor-pen-wu-kong.jpg)
 
 With this set-up, we will be hitting the Sweet Spot much more easily.
 
 ## Item Building
--If the enemy laner isn't stacking Armor, then take advantage of this situation and rush an Armor Penetration item to do True Damage. For example, The Brutalizer:
+
+**If the enemy laner isn't stacking Armor, then take advantage of this situation and rush an Armor Penetration item to do True Damage. For example, The Brutalizer:**
 
 ![armor returns - lol theorycrafting - the brutalizer](/images/content/armor-the-brut.jpg)
 
@@ -101,11 +102,11 @@ With this set-up, we will be hitting the Sweet Spot much more easily.
 
 The Brutalizer is an extremely cost effective item that we can buy early. Though The Brutalizer does not stack, The Brutalizer's unique passive, which offers +10 Armor Penetration, does stack with Youmu's Ghostblade and the Black Cleaver. If we build these items in accordance to the enemies Armor so that we are penetrating to just 0 Armor. If we're using % Armor Penetration, we may need a calculator for this! In the opposite situation, if the enemy is stacking Armor early, skip Flat Armor Penetration and rush % Armor Penetration, which is Last Whisper or Void Staff. 
 
--For a Magic Penetration build, we should buy (not in any order) Sorcerer's Boot, Haunting Guise, Abyssal Scepter, and Void Staff. A Deathfire Grasp is a great choice as well since its Active Damage will be augmented by all the Magic Penetration. If we decide to upgrade Haunting Guise, a Rylai's Scepter would be a great addition. 
+* For a Magic Penetration build, we should buy (not in any order) Sorcerer's Boot, Haunting Guise, Abyssal Scepter, and Void Staff. A Deathfire Grasp is a great choice as well since its Active Damage will be augmented by all the Magic Penetration. If we decide to upgrade Haunting Guise, a Rylai's Scepter would be a great addition. 
 
--For an Armor Penetration Build, we should buy (not in any order) Youmu's Ghostblade, The Black Cleaver, The Brutalizer, and Last Whisper. The Brutalizer stacks with Youmu's Ghostblade and The Black Cleaver, so it's a good item to purchase again for more Flat Armor Penetration. I generally buy Guardian's Angel after purchasing all said items. Of course, we don't have to buy all 4 of these items. Generally, 2-3 Armor Penetration items would be good enough for damage, but 4 is if we really want to optimize our offense to insta-gib.
+* For an Armor Penetration Build, we should buy (not in any order) Youmu's Ghostblade, The Black Cleaver, The Brutalizer, and Last Whisper. The Brutalizer stacks with Youmu's Ghostblade and The Black Cleaver, so it's a good item to purchase again for more Flat Armor Penetration. I generally buy Guardian's Angel after purchasing all said items. Of course, we don't have to buy all 4 of these items. Generally, 2-3 Armor Penetration items would be good enough for damage, but 4 is if we really want to optimize our offense to insta-gib.
 
--Remember to build Armor and Magic Penetration accordingly to the amount of Armor our enemy has. If we can penetrate 200 Armor, but are fighting a target with 50 Armor, then we won't be dealing as much damage as we should. If we find ourselves a bit farmed and have enough Armor or Magic Penetration to do True Damage, then build other items, such as B.F. Blade or Deathfire Grasp.
+* Remember to build Armor and Magic Penetration accordingly to the amount of Armor our enemy has. If we can penetrate 200 Armor, but are fighting a target with 50 Armor, then we won't be dealing as much damage as we should. If we find ourselves a bit farmed and have enough Armor or Magic Penetration to do True Damage, then build other items, such as B.F. Blade or Deathfire Grasp.
 
 ## Maybe Overpowered...
 
@@ -123,15 +124,15 @@ We use Crushing Blow on the target bringing the target enemy from **200 Armor** 
 
 Armor Penetration sounds too good to be true... So what's the catch?
 
--We should expect a difficult time CSing (especially under those towers..) as we will have 9-15 lower AD than the standard Rune Page.
+* We should expect a difficult time CSing (especially under those towers..) as we will have 9-15 lower AD than the standard Rune Page.
 
--Mid-late game, we need to dedicate a lot of our item space to having enough Armor Penetration to justify even just having one Flat Armor Penetration.
+* Mid-late game, we need to dedicate a lot of our item space to having enough Armor Penetration to justify even just having one Flat Armor Penetration.
 
--Because we dedicate so much item slots to Armor Penetration, this is not viable for tanks.
+* Because we dedicate so much item slots to Armor Penetration, this is not viable for tanks.
 
--Since Armor Penetration is best rushed early, we will be soft squish when entering the stage of mid-game.
+* Since Armor Penetration is best rushed early, we will be soft squish when entering the stage of mid-game.
 
--Not all champions are viable with Armor Penetration due to no built-in Armor Penetration skills or lack of mobilty. 
+* Not all champions are viable with Armor Penetration due to no built-in Armor Penetration skills or lack of mobilty. 
 
 ## Perhaps The Dawn of a New Item Meta
 
