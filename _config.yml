@@ -1,7 +1,7 @@
 # Site settings
 title: GameRunners
 email: news@gamerunners.gg
-description: "League of Legends coaching community driven news articles. Read about pro LoL champion analysis, theory crafting, past LoL tournament breakdowns, and more!"
+description: "League of Legends coaching community driven news articles. Read about pro LoL champion analysis, theory crafting, tournament breakdowns, and more!"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://news.gamerunners.gg" # the base hostname & protocol for your site
 twitter_username: GameRunnersGG
