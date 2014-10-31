@@ -14,21 +14,21 @@ thumbnail: "/images/content/kass-gank-one.png"
 
 ![Looper's Kassadin](/images/content/kassadin.png)
 
-Previous to his re-work in March of 2014, Kassadin was a mid-lane permaban for his ridiculously high mobility, solid laning and late-game scalling in just about every competitive scene on the planet. 
+Previous to his re-work in March of 2014, **Kassadin** was a mid-lane permaban for his ridiculously high mobility, solid laning and late-game scalling in just about every competitive scene on the planet. 
 
-Since his rework, Kassadin hasn’t really found a true home – while some players such as Fnatic’s xPeke continued to try him out in the mid-lane, with mixed results, Kassadin all but fell of the map as a top tier pick into the second half of 2014. Without the silence on his Null Sphere Kassadin was simply viewed as too inconsistent or risky a pick for the competitive level.
+Since his rework, Kassadin hasn’t really found a true home – while some players such as Fnatic’s **xPeke** continued to try him out in the mid-lane, with mixed results, Kassadin all but fell of the map as a top tier pick into the second half of 2014. Without the silence on his Null Sphere Kassadin was simply viewed as too inconsistent or risky a pick for the competitive level.
 
-However, one player has continued to pick Kassadin and has made it work – Samsung White’s top-laner, “Looper”. 
+However, one player has continued to pick Kassadin and has made it work – Samsung White’s top-laner, Jang **“Looper”** Hyeong-seok. 
 
 So what makes Kassadin a fit for the top lane, and how does Looper use the Voidwalker to the maximum potential? 
 
 Let’s find out!
 
-## Why Kassadin?: Picks and Bans
+## Why Kassadin? Picks and Bans
 
 Before we jump into some games, I think it’s important to understand the situational nature of a top-lane Kassadin pick and what to look for when considering picking Kassadin in your own matches. 
 
-Looper doesn’t pick Kassadin every game, and with good reason: he has a lot of direct counters and when playing from behind can be highly ineffective. Furthermore, he requires a lot of time and farm to become truly powerful and his early game is extremely vulnerable (especially pre-6). That being said if the situation is right Kassadin has the potential to completely take over a game if picked and played correctly.
+Looper <u>doesn’t</u> pick Kassadin every game, and with good reason: he has a lot of direct counters and when playing from behind can be highly ineffective. Furthermore, he requires a lot of time and farm to become truly powerful and his early game is extremely vulnerable (especially pre-6). That being said if the situation is right Kassadin has the potential to completely take over a game if picked and played correctly.
 
 Let’s start by looking at a few pick and ban phases from the **2014 World Championship** and examine what cues Samsung White looks for before even hitting the Rift when considering Looper his Kassadin.
 
@@ -110,11 +110,23 @@ Thanks to his patient play and understanding of the various strengths and weakne
 
 ### The Mid-Game: Pushing it Forward
 
-Heading into the mid-game, it is crucial to note that Looper abuses the power disparity between him and Cola. Look at their inventories around 13 or 14 minutes: Looper has his RoA ready and stacking while Cola is still sitting on components. Looper punishes Cola for not having a completed item by forcing an engage at Dragon: he walks down to join his team and fight near the objective. Even when the fight breaks out at around 15 minutes, Cola has just picked up his RoA while Looper has had it for several minutes. The health and damage disparity are noticeable as Looper jumps onto Cola near the Dragon pit and takes him down this the help of his team. 
+Heading into the mid-game and throughout the rest of the match, there are two lessons to learn from Looper’s play.
 
-Throughout the rest of the fight Kassadin’s chase and control potential kicks in, as he hunts down Zero for the Ace. 
+First, it is how to abuse power and cooldown differences. It is crucial to note that Looper abuses the power disparity between him and Cola. Look at their inventories **around 13 or 14 minutes**: Looper has his RoA ready and stacking while Cola is still sitting on components. Looper punishes Cola for not having a completed item by forcing an engage at Dragon: he walks down to join his team and fight near the objective. Even when the fight breaks out at around 15 minutes, Cola has only recently picked up his RoA while Looper has had it for several minutes. The health and damage disparity are noticeable as Looper jumps onto Cola near the Dragon pit and takes him down with the help from his team.
 
-From there, it’s simply a matter of time before Looper and the rest of White push in for the victory.
+![Looper's Kassadin jumping on Cola](/images/content/kass-jumping-on-cola.png)
+ 
+Due to the fact that the Kassadin-Ryze matchup is *very close* even at the best of times, taking advantage of each and every minor advantage possible is critical to getting ahead and staying ahead of the Ryze – and as Looper shows us, **the timing difference in terms of the two RoA’s is the first major one**. I’ll go into more depth about this difference in power later in the article, but for now it’s safe to say that coordinating your power spike with your team to force fights is an excellent idea when playing top lane Kassadin. 
+
+Throughout the rest of the fight at Dragon and the rest of the game, Kassadin’s chase and control potential kicks in, as he is able to constantly hunt down fleeing enemies and deliver massive slows in an AoE with Force Pulse. This massive turnaround from his early struggles are all thanks to the slow, patient recovery and explosive mid-game that Looper delivers, all the while keeping in mind the power spikes of his champion relative to Cola.
+
+The second major lesson to take away from the rest of this match is **mana management**: unlike pre-rework Kassadin, this new iteration of the champion is very mana intensive. The scaling mana cost of your ultimate might seem like no big deal, but thanks to the nerfed 40 second stack duration multiple Riftwalks in a row can quickly leave you desperately OOM – never a good position to be in, doubly so on Kassadin.
+
+Watching Looper, you’ll see how **patient and calculated he is with his Riftwalks**. He always keeps his mana in check and Riftwalks only when necessary, and rarely any more. A good rule of thumb to follow is two or three Riftwalks in a fight, which will put you up into the 1200 mana per Riftwalk territory, which is the upper limit for a mid-game Kassadin. 
+
+Watch the Dragon fight, and count how many times Looper Riftwalks: in a fight where he is involved in just about all five kills, he only Riftwalks *three times*. He even uses his Flash instead of another Riftwalk in order to gurantee he has the mana and cooldowns necessary to finish the fight.
+
+Smart mana management and thoughtful use of your ultimate can make or break a good Kassadin. Nothing is worse than jumping into a fight and realizing you can’t Riftwalk out because of lack of mana – play smart and you’ll find Kassadin a much more rewarding champion to play. 
 
 ## By the Numbers
 
@@ -188,6 +200,8 @@ There are a lot of things to take away from Looper’s Kassadin. Here are a few:
 * **Timing Windows and Power Spikes**: Recognize the item disparity between yourself and Ryze, especially with the Rod of Ages, and punish the enemy team for it. At the same time, known your limitations and power spikes and adjust your play to work around your weaknesses and harness your strengths. This also means taking advantage of cooldowns on Summoners, especially Teleport. If you have the TP advantage, use it.
 
 * **Don’t Despair**: If you get ganked, if you fall behind, keep your cool. Kassadin has a lot of potential, but you can’t force it. Kassadin require a level head and smart decision making to be effective – farm your way back into the game if necessary and rely on your team to carry you past your infancy (don’t worry, you’ll repay the favor later in the game)
+
+* **Mana Management** – Don’t be the Kassadin who dies to a gank because he can’t afford that crucial Riftwalk. Ultimate only when necessary and keep a careful eye on your stacks – it’s almost always better to wait that extra five second for the mana cost to reset. Patience pays off in making sure you can deliver consistent damage for the duration of a fight.
 
 I hope this look into Looper’s Kassadin was helpful. Maybe next time you see a Ryze in top you’ll think about Voidwalking up there like one of the world’s best.
 
