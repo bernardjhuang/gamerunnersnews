@@ -13,7 +13,7 @@ thumbnail: "/images/content/hxa-swain.png"
 
 Enjoy playing beefy AP Champions (Gragas, Swain, Singed, Maokai, and the such)? Ever wondered what the perfect ratio was to achieve Off-Tank Status whilst maintaining a high damage? If so, then let's delve into the dimension of mathematics and quantify the perfect Balanced Defense x AP Ratio. 
 
-The calculations methods will be the same methods as in the previous article - measuring the True Value or the Effectiveness of stats, and minimalizing Diminishing % Returns. For more information on Effectiveness, check the previous article (link). For information on minimalizing Diminishing % Returns, check the optimum [Health x Armor Article](http://news.gamerunners.gg/lol/calculating-optimum-stat-ratios/). Alright, the bell has rung. Take your seats because class has begun!
+The calculations methods will be the same methods as in the previous article - measuring the True Value or the Effectiveness of stats, and minimalizing Diminishing % Returns. For more information on Effectiveness, check the [previous article](http://news.gamerunners.gg/lol/health-x-armor-3/). For information on minimalizing Diminishing % Returns, check the optimum [Health x Armor Article](http://news.gamerunners.gg/lol/calculating-optimum-stat-ratios/). Alright, the bell has rung. Take your seats because class has begun!
 
 ## The Cost of Health, Armor, and AD/AP
 
