@@ -12,6 +12,30 @@
           $('#relevantstatsinput').show();
           $('#relevantstatstext').hide();
         });
+        function bindCalc(i) {
+          $(i).bind("change paste keyup", function() {
+            if ($(this).attr("id") == "attack-speed-input") {
+              attackSpeed = $("#attack-speed-input").val();
+              $("#attack-speed-output").show().html("<div class='line'></div>Attack Speed: <strong>"+attackSpeed+"</strong>");
+            }
+            if ($(this).attr("id") == "ad-input") {
+              ad = $("#ad-input").val();
+              $("#ad-output").show().html("<div class='line'></div>AD: <strong>"+ad+"</strong>");
+            }
+            if ($(this).attr("id") == "health-input") {
+              health = $("#health-input").val();
+              $("#health-output").show().html("<div class='line'></div>Health: <strong>"+health+"</strong>");
+            }
+            if ($(this).attr("id") == "armor-input") {
+              armor = $("#armor-input").val();
+              $("#armor-output").show().html("<div class='line'></div>Armor: <strong>"+armor+"</strong>");
+            }
+          });
+        }
+        bindCalc("#attack-speed-input");
+        bindCalc("#ad-input");
+        bindCalc("#health-input");
+        bindCalc("#armor-input");
       });
     </script>
   </head>
@@ -22,10 +46,10 @@
       </div>
       <div class="row" id="selectchampiontype">
         <div class="span4 pull-right">
-          <p>Attack Speed</p>
-          <p>AD</p>
-          <p>Health</p>
-          <p>Armor</p>
+          <p id="attack-speed-output">Attack Speed</p>
+          <p id="ad-output">AD</p>
+          <p id="health-output">Health</p>
+          <p id="armor-output">Armor</p>
         </div>
         <div class="span8">
           <h2> Select Champion Type </h2>
@@ -34,6 +58,7 @@
           <button id="adc" type="button" class="btn btn-default" data-toggle="tooltip" data-placement="top" title="Ashe, Caitlyn">ADC</button>
           <button id="apchampion" type="button" class="btn btn-default" data-toggle="tooltip" data-placement="top" title="Ryze, Kassadin">AP Champion</button>
           <button id="tankyapbruiser" type="button" class="btn btn-default" data-toggle="tooltip" data-placement="top" title="Cho'gath, Swain">Tanky AP Bruiser</button>
+          <button id="aabruiser" type="button" class="btn btn-default" data-toggle="tooltip" data-placement="top" title="AA bruiser champs">AA Bruiser</button>
           <button id="adcasterbruiser" type="button" class="btn btn-default" data-toggle="tooltip" data-placement="top" title="Pantheon, Zed">AD Caster Bruiser</button>
         </div>
       </div>
