@@ -21,22 +21,30 @@
         <h1 class="page-header">LoL Optimum Stat Calculator</h1>
       </div>
       <div class="row" id="selectchampiontype">
-        <h2> Select Champion Type </h2>
-        <br>
-        <button id="tank" type="button" class="btn btn-default" data-toggle="tooltip" data-placement="top" title="Renekton, Mundo">Tank</button>
-        <button id="adc" type="button" class="btn btn-default" data-toggle="tooltip" data-placement="top" title="Ashe, Caitlyn">ADC</button>
-        <button id="apchampion" type="button" class="btn btn-default" data-toggle="tooltip" data-placement="top" title="Ryze, Kassadin">AP Champion</button>
-        <button id="tankyapbruiser" type="button" class="btn btn-default" data-toggle="tooltip" data-placement="top" title="Cho'gath, Swain">Tanky AP Bruiser</button>
-        <button id="adcasterbruiser" type="button" class="btn btn-default" data-toggle="tooltip" data-placement="top" title="Pantheon, Zed">AD Caster Bruiser</button>
+        <div class="span4 pull-right">
+          <p>Attack Speed</p>
+          <p>AD</p>
+          <p>Health</p>
+          <p>Armor</p>
+        </div>
+        <div class="span8">
+          <h2> Select Champion Type </h2>
+          <br>
+          <button id="tank" type="button" class="btn btn-default" data-toggle="tooltip" data-placement="top" title="Renekton, Mundo">Tank</button>
+          <button id="adc" type="button" class="btn btn-default" data-toggle="tooltip" data-placement="top" title="Ashe, Caitlyn">ADC</button>
+          <button id="apchampion" type="button" class="btn btn-default" data-toggle="tooltip" data-placement="top" title="Ryze, Kassadin">AP Champion</button>
+          <button id="tankyapbruiser" type="button" class="btn btn-default" data-toggle="tooltip" data-placement="top" title="Cho'gath, Swain">Tanky AP Bruiser</button>
+          <button id="adcasterbruiser" type="button" class="btn btn-default" data-toggle="tooltip" data-placement="top" title="Pantheon, Zed">AD Caster Bruiser</button>
+        </div>
       </div>
       <div class="row" id="relevantstats">
         <h2> Input Relevant Stats </h2>
         <p id="relevantstatstext"><em> Select champion type to get started</em></p>
         <div class="" id="relevantstatsinput" style="display:none;">
-          <input type="number" id="time-dollars" class="span1" step="any"> Attack Speed <br>
-          <input type="number" id="time-dollars" class="span1" step="any"> AD <br>
-          <input type="number" id="time-dollars" class="span1" step="any"> Health <br>
-          <input type="number" id="time-dollars" class="span1" step="any"> Armor <br>
+          <input type="number" id="attack-speed-input" class="span1" step="any"> Attack Speed <br>
+          <input type="number" id="ad-input" class="span1" step="any"> AD <br>
+          <input type="number" id="health-input" class="span1" step="any"> Health <br>
+          <input type="number" id="armor-input" class="span1" step="any"> Armor <br>
         </div>
       </div>
     </div>
