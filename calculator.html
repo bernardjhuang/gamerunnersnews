@@ -14,6 +14,7 @@
         });
         function bindCalc(i) {
           $(i).bind("change paste keyup", function() {
+            $('#itemstats').show();
             if ($(this).attr("id") == "attack-speed-input") {
               attackSpeed = $("#attack-speed-input").val();
               $("#attack-speed-output").show().html("<div class='line'></div>Attack Speed: <strong>"+attackSpeed+"</strong>");
@@ -70,6 +71,12 @@
           <input type="number" id="ad-input" class="span1" step="any"> AD <br>
           <input type="number" id="health-input" class="span1" step="any"> Health <br>
           <input type="number" id="armor-input" class="span1" step="any"> Armor <br>
+        </div>
+      </div>
+      <div class="row" id="itemstats" style="display:none;">
+        <h2> See how you improve with items </h2>
+        <div class="" id="itemsinput">
+          <a href="#"><img src="/images/content/cloth-armor.png" /></a>
         </div>
       </div>
     </div>
