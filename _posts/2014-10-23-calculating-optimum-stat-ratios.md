@@ -3,7 +3,7 @@ layout: post
 title:  "Calculating Optimum Stat Ratios Part 1: Health x Armor"
 description: "Ever wondered what your Health to Armor ratio should be? If so, then you're reading the right article!"
 author: "Samuel Kuo"
-author_profile: "Invented the troam'er role (troll and roam) and the triple brut. build (Youmu's Ghost Blade, Black Cleaver, and The Brutalizer)"
+author_profile: "a LoL theory crafter and an innovator that digs deep"
 author_coach: "http://gamerunners.gg/coaches/3"
 date: 2014-10-23
 categories: lol

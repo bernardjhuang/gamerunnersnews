@@ -3,7 +3,7 @@ layout: post
 title:  "Calculating Optimum Stat Ratios - Part 3: Health x Armor x Offense - The Caster-Type Bruiser"
 description: "Caster-Type Bruisers include Champions that are, of course, tanky but rely on spells as their main source of damage. If you enjoy playing Champions like Wukong, Pantheon, Jarvan, and the such, then read on - this is the article for you!"
 author: "Samuel Kuo"
-author_profile: "Invented the troam'er role (troll and roam) and the triple brut. build (Youmu's Ghost Blade, Black Cleaver, and The Brutalizer)"
+author_profile: "a LoL theory crafter and an innovator that digs deep"
 author_coach: "http://gamerunners.gg/coaches/3"
 date: 2014-10-30
 categories: lol
