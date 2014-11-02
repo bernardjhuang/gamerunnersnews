@@ -8,7 +8,7 @@ author_coach: "http://gamerunners.gg/coaches/3"
 date: 2014-11-03
 categories: lol
 tags: theorycraft
-thumbnail: ""
+thumbnail: "/images/content/adc-3.png"
 ---
 
 Do you main AD Carry? Ever wondered how much Life Steal you should invest in? Want to know what the perfect ratio between Crit. Rate, Attack Speed, and AD is? Then read on!
@@ -58,7 +58,7 @@ And Dagger...
 Dagger costs 450 gold and provides 15% Attack Speed. 450/15 = **30 gold per unit of Attack Speed (AS)**.
 And the new stat value we will be calculating in this article, Brawler's Gloves:
 
-![Calculating Stat Ratios - ADC, ](/images/content/)
+![Calculating Stat Ratios - ADC, Brawler's gloves](/images/content/brawlers-gloves.png)
 
 *(image from leagueoflegend.wikia.com)*
 
@@ -387,14 +387,19 @@ If there are ninjas, we simply do not buy Bloodthirster (what's the point of Lif
 ![Calculating stat ratios - adc carry, trist build stats if ninjas](/images/content/adc-4.png)
 
 *(generated at leaguecraft.com)*
+
 We can see that our DPS has dropped dramatically. However, it may be arguable that our DPS has actually risen because we can make more risky plays (such as jumping in and Assassinating the enemies AD Carry while surviving). The boot seem can be swapped our for Zephyr for increased DPS and tenacity. Tenacity will also synergize with our ability to play more aggressively. 
+
 I chose Banshee's Veil in this example. However, remember our other options: Mercurial Scimitar, Guardian Angel, Randuin's Omen, and Frozen Mallet. They are all situational. Choose carefully.
 
-Conclusion
-Early Game - Invest in Health and AD (Doran's Blade).
-Late-Early Game - Invest in AD and Attack Speed (Blade of the Ruined King, Youmu's Ghostblade, Trinity Force). If we have built-in Attack Speed steroid like Tristana, skip this phase.
-Mid Game - Invest in Crit Rate (Infinity Edge, Phantom Dancer, Statikk Shiv).
-Late-Mid Game - Invest in % Armor Penetration (Last Whisper)
-Late Game - Invest in % Life Steal (Bloodthirster) or defensive (Guardian Angel, Mercurial Scimitar, Randuin's Omen, Banshee's Veil, or Frozen Mallet)
+## Conclusion
 
+**Early Game** - Invest in Health and AD (Doran's Blade).
 
+**Late-Early Game** - Invest in AD and Attack Speed (Blade of the Ruined King, Youmu's Ghostblade, Trinity Force). If we have built-in Attack Speed steroid like Tristana, skip this phase.
+
+**Mid Game** - Invest in Crit Rate (Infinity Edge, Phantom Dancer, Statikk Shiv).
+
+**Late-Mid Game** - Invest in % Armor Penetration (Last Whisper)
+
+**Late Game** - Invest in % Life Steal (Bloodthirster) or defensive (Guardian Angel, Mercurial Scimitar, Randuin's Omen, Banshee's Veil, or Frozen Mallet)
