@@ -64,7 +64,7 @@ Here's a good example of some kiting by Hi Im Gosu:
 
 3) We can dodge skillshots. CLG Doublelift often weaves left and right during the third phase of his Auto Attack to maximize dodging against spells:
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/HrtOLPV1ZMo?start=228" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/HrtOLPV1ZMo?start=221" frameborder="0" allowfullscreen></iframe>
 
 4) We can chase better. If we were to just right click our opposing target, our Champion would freeze during the third phase of Auto Attack. Therefore, we want to manually click our Champion to move forward until the Animation Delay phase ends, and continue hitting.
 
