@@ -2,6 +2,7 @@
 layout: post
 title:  "Calculating Optimum Stat Ratios - Part 3: Balanced Defense x AP Ratio"
 description: "Enjoy playing beefy AP Champions (Gragas, Swain, Singed, Maokai, and the such)? Ever wondered what the perfect ratio was to achieve Off-Tank Status whilst maintaining a high damage?"
+excerpt: "Enjoy playing beefy AP Champions (Gragas, Swain, Singed, Maokai, and the such)? Ever wondered what the perfect ratio was to achieve Off-Tank Status whilst maintaining a high damage?"
 author: "Samuel Kuo"
 author_profile: "a LoL theory crafter and an innovator that digs deep"
 author_coach: "http://gamerunners.gg/coaches/3"
@@ -11,7 +12,7 @@ tags: theorycraft
 thumbnail: "/images/content/hxa-swain.png"
 ---
 
-**The material in this article is cumulative of materials covered in the previous articles, so if you haven't checked them out yet, [here's a link to Article 1](http://news.gamerunners.gg/lol/calculating-optimum-stat-ratios/). **
+**The material in this article is cumulative of materials covered in the previous articles, so if you haven't checked them out yet, [here's a link to Article 1](http://news.gamerunners.gg/lol/calculating-optimum-stat-ratios/).**
 
 Enjoy playing beefy AP Champions (Gragas, Swain, Singed, Maokai, and the such)? Ever wondered what the perfect ratio was to achieve Off-Tank Status whilst maintaining a high damage? If so, then let's delve into the dimension of mathematics and quantify the perfect Balanced Defense x AP Ratio. 
 

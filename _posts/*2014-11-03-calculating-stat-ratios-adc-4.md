@@ -2,6 +2,7 @@
 layout: post
 title:  "Calculating Optimum Stat Ratios - Part 4: AD Carry"
 description: "Do you main AD Carry? Ever wondered how much Life Steal you should invest in? Want to know what the perfect ratio between Crit. Rate, Attack Speed, and AD is? Then read on!"
+excerpt: "Do you main AD Carry? Ever wondered how much Life Steal you should invest in? Want to know what the perfect ratio between Crit. Rate, Attack Speed, and AD is? Then read on!"
 author: "Samuel Kuo"
 author_profile: "a LoL theory crafter and an innovator that digs deep"
 author_coach: "http://gamerunners.gg/coaches/3"
@@ -11,7 +12,7 @@ tags: theorycraft
 thumbnail: "/images/content/adc-3.png"
 ---
 
-**The material in this article is cumulative of materials covered in the previous articles, so if you haven't checked them out yet, [here's a link to Article 1](http://news.gamerunners.gg/lol/calculating-optimum-stat-ratios/). **
+**The material in this article is cumulative of materials covered in the previous articles, so if you haven't checked them out yet, [here's a link to Article 1](http://news.gamerunners.gg/lol/calculating-optimum-stat-ratios/).**
 
 Do you main AD Carry? Ever wondered how much Life Steal you should invest in? Want to know what the perfect ratio between Crit. Rate, Attack Speed, and AD is? Then read on!
 
