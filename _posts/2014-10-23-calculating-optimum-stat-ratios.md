@@ -12,6 +12,8 @@ thumbnail: "/images/content/hxa-cho-gath.png"
 excerpt: "Ever wondered what your Health to Armor ratio should be? If so, then you're reading the right article! When it comes to optimized Health to Armor ratio, there are mainly three factors to building the perfect build: the Diminishing % Returns of stacking Health and Armor, the cost efficiency that the game develepors have set, and average Physical and Magic damage the opposing team has."
 ---
 
+**<a href="#ratios">Skip to the optimum health and armor against only physical damage ratios</a>**
+
 Ever wondered what your Health to Armor ratio should be? If so, then you're reading the right article!
 
 When it comes to optimized Health to Armor ratio, there are mainly three factors to building the perfect build:
@@ -132,7 +134,7 @@ Health is simpler since 1 Health just means 1 unit of Health. All we have to do 
 
 So now that we have the true value per unit of Health and Armor, all we have to do is distribute Health and Armor symmetrically to minimalize Diminishing % Return.
 
-## Optimum Health and Armor Ratio Against Only Physical Damage
+<h2 id="ratios"> Optimum Health and Armor Ratio Against Only Physical Damage</h2>
 
 Ideal Sample Ratios:
 

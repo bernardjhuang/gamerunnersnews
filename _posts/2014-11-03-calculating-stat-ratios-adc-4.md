@@ -14,6 +14,8 @@ thumbnail: "/images/content/adc-3.png"
 
 *The material in this article is cumulative of materials covered in the previous articles, so if you haven't checked them out yet, [here's a link to Article 1](http://news.gamerunners.gg/lol/calculating-optimum-stat-ratios/).*
 
+**<a href="#ratios">Skip to the optimum AD carry stat ratios</a>**
+
 Do you main AD Carry? Ever wondered how much Life Steal you should invest in? Want to know what the perfect ratio between Crit. Rate, Attack Speed, and AD is? Then read on!
 
 Our [previous article decoded the optimum ratio between Health, Armor, AD and Attack Speed](http://news.gamerunners.gg/lol/calculating-stat-ratios-4/). However, Health and Armor is not as relevant for AD Carries. We want mour damage! This article will add Life Steal and Crit. Rate as additional value to replace the Health and Armor variable (I will keep the Health and Armor variable in place for those that want a balanced build). So let's get rockin' and rollin,' and figure out if there is some way we can quantify Crit Rate. 
@@ -83,7 +85,7 @@ Simply take the value of each stat and divide it by its respective gold cost to 
 
 With these units of measuring, we now just have to keep them in symmetry to minimalize Diminishing % Returns to optimize our stat ratios.
 
-## Optimum AD Carry Stat Ratio 
+<h2 id="ratios"> Optimum AD Carry Stat Ratio </h2>
 
 Ideal sample ratios:
 
