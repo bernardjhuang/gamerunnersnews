@@ -11,6 +11,8 @@ tags: theorycraft
 thumbnail: "/images/content/hxa-cloth-armor.png"
 ---
 
+**The material in this article is cumulative of materials covered in the previous articles, so if you haven't checked them out yet, [here's a link to Article 1](http://news.gamerunners.gg/lol/calculating-optimum-stat-ratios/). **
+
 Bruisers have some of the most flexible but complicated item build. Having to invest heavily in damage items to be able to take down enemy carries; but at the same time, being in the forefront in team fights means taking heavy damage. Thus, Bruisers are in a crisis searching for perfect balance of offense and defense. Buying items has never been more mathematically critical!
 
 I see there being two kinds of Bruisers - Auto-Attack Dependent Bruisers and Caster-Type Bruisers. Auto-Attack (AA) Dependent Bruisers include Champions but are not limited to Irelia, Udyr, Xin Zhao, Aatrox, Shyvana, Trundle, Warwick, Jax, Nocturne, and the such. The other kind are Bruisers that are more spell-reliant for dealing damage. This article will be looking at Auto-Attack Dependent Bruisers. For Caster-Type Bruisers, check this page (link). In this article, we will be combining the math for optimum damage and optimum defense to figure out the perfect Bruiser stat ratio. It is accumulative of Calculating Optimum Stat Ratios - Part 1, so if you haven't read that yet, [check it out here](../../lol/calculating-optimum-stat-ratios/). So without further ado, let's figure out how offense stats relate to defense stats.
