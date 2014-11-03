@@ -12,7 +12,7 @@ tags: theorycraft
 thumbnail: "/images/content/hxa-cloth-armor.png"
 ---
 
-**The material in this article is cumulative of materials covered in the previous articles, so if you haven't checked them out yet, [here's a link to Article 1](http://news.gamerunners.gg/lol/calculating-optimum-stat-ratios/).**
+*The material in this article is cumulative of materials covered in the previous articles, so if you haven't checked them out yet, [here's a link to Article 1](http://news.gamerunners.gg/lol/calculating-optimum-stat-ratios/).*
 
 Bruisers have some of the most flexible but complicated item build. Having to invest heavily in damage items to be able to take down enemy carries; but at the same time, being in the forefront in team fights means taking heavy damage. Thus, Bruisers are in a crisis searching for perfect balance of offense and defense. Buying items has never been more mathematically critical!
 
