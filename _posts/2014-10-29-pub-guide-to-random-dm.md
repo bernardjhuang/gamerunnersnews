@@ -7,7 +7,6 @@ author_image: "https://odesk-prod-portraits.s3.amazonaws.com/Users:xanderdi:Port
 author_profile: "3600 MMR player"
 date:   2014-10-29 
 categories: dota
-tags: tournament
 thumbnail: "/images/content/wca-disconnect-wall.png"
 ---
 

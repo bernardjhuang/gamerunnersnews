@@ -7,7 +7,6 @@ author_image: "https://odesk-prod-portraits.s3.amazonaws.com/Users:gildordorn:Po
 author_profile: "Dota 2 Specialist"
 date: 2014-10-19
 categories: dota
-tags: tournament
 thumbnail: "/images/content/esl-ny-2014.jpg"
 ---
 
