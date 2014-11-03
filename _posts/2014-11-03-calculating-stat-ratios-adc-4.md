@@ -8,7 +8,7 @@ author_profile: "a LoL theory crafter and an innovator that digs deep"
 author_coach: "http://gamerunners.gg/coaches/3"
 date: 2014-11-03
 categories: lol
-tags: theorycraft
+tags: math
 thumbnail: "/images/content/adc-3.png"
 ---
 

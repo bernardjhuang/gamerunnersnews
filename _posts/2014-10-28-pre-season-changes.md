@@ -7,7 +7,7 @@ author_image: "https://media.licdn.com/mpr/mpr/p/3/005/016/241/2f5007d.jpg"
 author_profile: "LoL Specialist"
 date: 2014-10-28
 categories: lol
-tags: 
+tags: tournament
 thumbnail: "http://i.imgur.com/tVSeBbL.jpg"
 ---
 

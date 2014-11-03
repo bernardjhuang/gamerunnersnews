@@ -7,7 +7,7 @@ author_profile: "a LoL theory crafter and an innovator that digs deep"
 author_coach: "http://gamerunners.gg/coaches/3"
 date: 2014-10-27
 categories: lol
-tags: theorycraft
+tags: math
 thumbnail: "/images/content/armor-zed.jpg"
 ---
 

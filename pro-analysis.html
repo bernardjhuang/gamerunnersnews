@@ -4,10 +4,10 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">LoL Community News - <a href="/pro-analysis.html">pro-analysis</a>, <a href="/theory-crafting.html">theorycrafting</a>, <a href="/math.html">lol math</a></h1>
+  <h1 class="page-heading">LoL Pro Analysis News</h1>
 
   <ul class="post-list">
-    {% for post in site.categories.lol limit: 7 %}
+    {% for post in site.tags.pro-analysis %}
       <li>
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
