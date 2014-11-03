@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Best Lucian Build Guide (Hidden Gems: Armor Penetration - Part 3)"
+title:  "Armor Penetration Stacking on Lucian (Hidden Gems: Armor Penetration - Part 3)"
 description: "Lucian is unique AD carry that relies heavily on bursting damaging spells to deal high damage. In addition to strong damage-dealing spells, Lucian has one of the strongest passives in the game - Lightslinger."
 author: "Samuel Kuo"
 author_profile: "a LoL theory crafter and an innovator that digs deep"
