@@ -78,7 +78,17 @@ While I see many people utilizing Crescent to cancel AA Animation Delay, Crescen
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/9HyA2OZSND4" frameborder="0" allowfullscreen></iframe>
 
-In this video, I combine 2 forms of Animation Canceling - Spell Animation Canceling and Crescent Animation Canceling. The result is a very quick and strong burst.
+In this video, I combine 3 forms of Animation Canceling - AA Animation Cancelling, Spell Animation Canceling, and Crescent Animation Canceling:
+
+* First, I use an AA to begin with.
+
+* Second, I cancel the AA's Animation Delay with Tiamat's Crescent. 
+
+* Third, I cancel Tiamat's Crescent's Animation during Charge-Up phase with Crushing Blow.
+
+* Fourth, I cancel Crushing Blow's Spell Animation with Nimbus Strike.
+
+The result is a very quick and strong burst.
 
 **I find it helpful to place Tiamat or Ravenous Hydra in item slot #1 so that I can click 1 to activate it. It's much easier than finding 3 or 5 on the keyboard!
 
