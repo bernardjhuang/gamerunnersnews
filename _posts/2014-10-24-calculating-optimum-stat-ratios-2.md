@@ -8,7 +8,7 @@ author_profile: "a LoL theory crafter and an innovator that digs deep"
 author_coach: "http://gamerunners.gg/coaches/3"
 date: 2014-10-24
 categories: lol
-tags: math
+tags: theorycraft
 thumbnail: "/images/content/hxa-cloth-armor.png"
 ---
 
