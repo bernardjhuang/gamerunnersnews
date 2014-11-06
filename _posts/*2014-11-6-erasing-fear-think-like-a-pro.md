@@ -31,7 +31,7 @@ Pro players aren’t afraid to invade. Pro players aren’t afraid to go into so
 
 Look at this graph of player movement over the course of 10,000 games. Look at the video for each lane and contemplate this data for a moment, what does this say to you about the positioning of the enemy players? Reflect on this and when you are finished come back.
 
-![10k lol games in 30 seconds - erase your fear think like a pro](http://graphics8.nytimes.com/newsgraphics/2014/09/25/lolstats/3c82cbf17c978b735f2239fe4a634ab81e383ca4/images/poster-main.jpg)
+[Watch 10,000 League of Legends Games in 30 Seconds](http://www.nytimes.com/interactive/2014/10/10/technology/league-of-legends-graphic.html)
 
 Upon inspection these graphs tell me two important pieces of information.
 
