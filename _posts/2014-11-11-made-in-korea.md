@@ -25,7 +25,7 @@ This shortage or "perceived" shortage of native talent has led the West to look 
 
 Since the inception of Korea's "The Champions" tournament, a two-team system has been in place.  All of the major organizations like SK Telecom, CJ Corporation, and Samsung sponsor two teams. Samsung, the main sponsor of "Samsung White" and "Samsung Blue" sent two teams to the 2014 World Championships. 
 
-![samsung lol esports](http://ttdt.vn/images/andyth/12/LMHT/champ14.jpg)
+<img src="http://ttdt.vn/images/andyth/12/LMHT/champ14.jpg" alt="korean esports implosion" style="max-height: 300px;">
 
 This two-team system has allowed for Korea to bring up vast amounts of talent in its competitive Leagues. The two-team system allows for greater levels of infrastructure and resources that are available to players. However, recently OnGameNet decided to implement a single team system similar to that of the West's LCS. The introduction of this single team system will bring major change to the Korean League of Legends scene. Every Korean organization will have to drop one of their major teams. As a result, at least half of the current Korean professional players have been displaced. Korea is known for producing the best players in the world; they have won the last two World Championships and there is no sign they are slowing down. Some players will retire, some will play in amateur Korean leagues, and many will ship themselves to foreign professional teams. Some of the most notable players who have already left the Korean pro scene since the decision are Cho "Mata" Se-hyeong and Lee "KaKAO" Byung-kwon. Korea has a large surplus of talented players who are hungry for competition and don’t have a spot in their native leagues. 
 
