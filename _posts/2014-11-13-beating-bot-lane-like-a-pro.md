@@ -7,6 +7,7 @@ author_image: "https://ws.elance.com/file/thumb64-80-1614857447-10172580_1454121
 author_profile: "LoL Gaming Journalist"
 date: 2014-11-13
 categories: lol
+tags: guide
 thumbnail: "/images/content/beat-bot-lane.jpg"
 ---
 
