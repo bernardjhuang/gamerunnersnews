@@ -25,19 +25,21 @@ New Summoners are always searching for an answer to sustain themselves in the ha
 
 * If we are in Elo Hell, and we copy the strategies of other people whom are in Elo Hell, are we going to improve? Think about it. Their in Elo Hell for a reason. If we copy their strategy, most likely, we will be in Elo Hell as well! 
 
-* We shouldn't mimic LCS Summoners either! LCS is almost a completely different game in comparison to solo queue. This difference stems from the difference in communication level and team-synergy we have in-game. For example, LCS games often sends 2-3 people into the Jungle early game to counter the enemy team who does the same. In a normal solo queue, this strategy will probably cause doom as a team sending 2-3 people into the Jungle will cause us to be massively underfarmed and underleveled. Also, LCS Summoners build items accordingly to their team. However, in solo queue, we can't always depend on our AD Carry since he/she might might not know how to AD Carry and get assassinated instantaneously. Therefore, as opposed to LCS games, building around our team is not the best idea either. 
+* We shouldn't mimic LCS Summoners either! LCS is almost a completely different game in comparison to solo queue. This difference stems from the difference in communication level and team-synergy we have in-game. For example, LCS games often sends 2-3 people into the Jungle early game to counter the enemy team who does the same. However, in a normal solo queue game, this strategy will probably spell doom our team as a team sending 2-3 people into the Jungle will cause us to be massively underfarmed and underleveled. Also, LCS Summoners build items accordingly to their team. However, in solo queue, we can't always depend on our AD Carry since he/she might might not know how to AD Carry and get assassinated instantaneously. Therefore, as opposed to LCS games, building around our team is not the best idea either. 
 
 ## The Tendrils of Meta
 
+It isn't curiosity that killed the cat. What killed the cat was its fellow cat-mates that feared its intelligence. 
+
 So why do people follow the meta? Well, the meta is an armrest for the New Summoners. However, as comforting as it may be, it suppresses curiosity, and invites ignorance. For more skilled Summoners, this can be the obstacle between being confined in Elo Hell and being at our god-like potential. 
 
-Additionally, from my experience, a Summoner will be a called a troll if he/she does not follow the meta. So how I see it is, basically, the meta is a self-reinforced system that tries to preserve its existence. It does this through a parasitic method of infesting the minds of Summoners. From there, it  weeds out other Summoners, possible viruses that oppose its conduct.  For example, in a game where a team loses, a Summoner will most likely click "tab" to see who has the weirdest build to point fingers. Even if this Summoner isn't the cause of why they lost, he/she will be blamed just for being different! That's purely a negative stereotype attitude that we should not adopt for it does us no good. And we should definitely not be submitting ourselves to the reigns of the meta!
+Additionally, from my experience, a Summoner will be a called a troll if he/she does not follow the meta. So how I see it is, basically, the meta is a self-reinforced system created by the majority of players (which is Silver and Bronze tier!). This meta is not a simply a set of superficial rules, however. It is a parasite that  preserves its existence by infesting the minds and hearts of Summoners. From there, it  weeds out other Summoners, possible viruses that opposes its conduct.  For example, in a game where a team loses, a Summoner will most likely click "tab" to see who has the weirdest build to point fingers. Even if this Summoner isn't the cause of why they lost, he/she will be blamed just for being different! That's purely a negative stereotype attitude that we should not adopt for it does us no good. And we should definitely not be submitting ourselves to the reigns of the meta! 
 
-We basically have 2 options. The first is to be a slave of the meta, of which then we are shackled and binded of our freedom to forever wander in Elo Hell. The second is to question the meta and to look for holes, weaknesses in this fabricated matrix.
+We basically have 2 options. The first is to be a slave of the meta, of which then we are shackled and binded of our freedom to forever wander in Elo Hell. The second is to question the meta and to look for holes, weaknesses in this fabricated matrix. 17  We basically have 2 options. The first is to be a slave of the meta, of which then we are shackled and binded of our freedom to explore and to be innovative. We do this only to just be "accepted" by the community at the consequence of, perhaps, forever wandering in Elo Hell. The second is to question the meta and to look for holes, weaknesses in this fabricated matrix. As an example, let's challenge some of the common beliefs we come across in Elo Hell.
 
 ## Master 1 Lane & 2 Champions at Most
 
-The meta tells us to master many different roles. It says that this is important to being successful in solo queue, especially because we can't always get our role. However, I let's raise our curiosity flag.
+The meta tells us to master many different roles. It says that this is important to being successful in solo queue, especially because we can't always get our role. However, let's raise our curiosity flag. 
 
 LCS Summoners can afford to spend 10+ hours practicing League of Legends; yet, the majority of the pros only play in 1 lane. They also tend to have a small champion pool. Obviously, because they are a pre-made team, they can have set roles. But there are other reasons for this.
 
@@ -47,13 +49,13 @@ Mastering a Champion is important because every Champion has a different base At
 
 Of course, there is Spell Animation Cancelling as well. Champions, such as Riven, can truly shine by taking full advantage of this to be casting 2 or even 3 Spells simultaneously! Experiment around and figure out the limits of your Champion when casting.
 
-What's the best way to improve mechanics? Well, since mechanics varies from Champion to Champion, this means we should be maining a role!
+What's the best way to improve mechanics? Well, since mechanics varies from Champion to Champion, this means we should be consistently maining a role!
 
-Mastering a lane is as equally difficult of a task. It's not something that can be taken half-hearted. It's something obtained through the experiences of many, many games of trial and error. For example, we need to know the approximate time the enemy jungler will gank, when to shove our lane or when to freeze, when to play passive or active based on our positioning, etc... This will all come through experience if we main a lane!
+Mastering a lane is as equally difficult of a task. It's not something that can be taken half-hearted. It's something obtained through the experiences of many, many games of trial and error. For example, we need to know the approximate time the enemy jungler will gank, when to shove our lane or when to freeze, when to play passive or active based on our positioning, etc... This can only come through experience if we consistently main a lane!
 
-Yet, we try to buy every Champion in the game and "master" all lanes. Think about it. If we play only perhaps a 1/5 of how much the pros play, can we say that we have 300+ games on a single Champion or 1000+ games in a single lane?
+Yet, we try to buy every Champion in the game and "master" all lanes. Think about it. If we play only perhaps a 1/5 of how much the pros play, can we say that we have 300+ games on a single Champion or 1000+ games in a single lane? If LCS Players can't master everything, then that means we probably can't as well. This is a weakness of the meta we can take advantage of!
 
-Additionally, if we get our main role, we'll probably win because there is a high statistical chance that we will play against something that is just "filling" or someone that hasn't mastered the lane. We'll also know how to more gold-efficient with our gold if we know the perfect item build. More on this later. 
+Just imagine. If we get our main role, we'll probably win. Because of meta standards, there is a high statistical chance that we will play against a Summoner that is just "filling." Most likely, the Summoner we play against hasn't mastered your lane. This is why maining a lane is so powerful. 
 
 ## Be Aggressive At Champion-Selection
 
@@ -69,7 +71,7 @@ The best thing we can do to get our role is to just be aggressive about calling 
 
 Of course, we can get creative here. Just have a line ready to copy and paste the moment you load into Champion Selections!
 
-Sadly, we don't always get what we want in life; thus, we need a backup Champion and lane. Honestly however, if our win-rate in our main lane is 70%, then our win-rate for other lanes are probably 50% or lower. If I did the Math, it would actually be even better to dodge (though I don't advocate dodging!). 
+Sadly, we don't always get what we want in life; thus, we need a backup Champion and lane. Honestly however, if our win-rate in our main lane is 70%, then our win-rate for other lanes are probably 50% or lower. If I did the Math, it would actually be even better to dodge (though I don't advocate dodging for ethical reasons!).
 
 "Counter-Picking"
 
@@ -83,9 +85,11 @@ Additionally, Bob probably hasn't experimented with a lot of item builds to see 
 
 ## Most Likely, the Recommended Item Build is Poor
 
-The meta recommends certain items. I speak of two of these. The one that is recommended by the game developers, and the one that the community tells you to build. However, the ones recommended by the developers were created off the top of their heads. Obviously, they probably haven't experimented with hundreds of game testing different builds. Also, the ones recommended by community are rip-off builds of famous LCS players. But remember, solo queue works on rules very different from that of the LCS!
+The meta recommends certain items. I speak of two of these. The one that is recommended by the game developers, and the one that the community tells you to build. However, the ones recommended by the developers were created off the top of their heads. Obviously, they probably haven't experimented with hundreds of game testing different builds. And the ones recommended by community are rip-off builds of famous LCS players. But remember, solo queue works on rules very different from that of the LCS. Yet, people follow these builds. We can take advantage of this. 
 
-The best thing to do is to just think for yourself. Obviously, I can't give you a "best build" because every Champion is different. The best builds varies from Champion to Champion. I have, however, written articles for "general" optimum stat ratios. Check them out as a guideline for when experimenting with builds.
+Because many people blindly follow the recommended item builds that most likely aren't optimum, even if the enemy is ahead in gold, we can win. If we main a role and have experimented with many builds, then we can be much more cost-efficient about gold-spending. With a superior build, it's possible to then beat an enemy who has twice the CS!
+
+The best thing to do is to just think for yourself. Obviously, I can't give you a "best build" because every Champion is different. I have, however, written articles for "general" optimum stat ratios. Check them out as a guideline for when experimenting with builds.
 
 * [Optimum Health: Armor Stat ratio](http://news.gamerunners.gg/lol/calculating-optimum-stat-ratios/)
 
