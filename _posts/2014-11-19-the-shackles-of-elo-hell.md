@@ -1,15 +1,14 @@
 ---
 layout: post
-title:  "The Shackles of ELO Hell"
-description: "Do you main AD Carry? Ever wondered how much Life Steal you should invest in? Want to know what the perfect ratio between Crit. Rate, Attack Speed, and AD is? Then read on!"
-excerpt: "Do you main AD Carry? Ever wondered how much Life Steal you should invest in? Want to know what the perfect ratio between Crit. Rate, Attack Speed, and AD is? Then read on!"
+title: "The Shackles of ELO Hell"
+description: "Ever heard of the term, Elo Hell? I'm sure you have, and you probably know it as something as, 'the inability to win due to teammates playing poorly.'"
 author: "Samuel Kuo"
 author_profile: "a LoL theory crafter and an innovator that digs deep"
 author_coach: "http://gamerunners.gg/coaches/3"
-date: 2014-11-05
+date: 2014-11-19
 categories: lol
 tags: theorycraft
-thumbnail: ""
+thumbnail: "/images/content/elo-hell.jpg"
 ---
 
 Like a splinter in your mind, driving you mad, Elo hell is something exists within the confines of our mind, a feeling if you would, that has brought you to me. However, Chosen One, if by any chance that you came here by accident, go ahead and take this blue pill and the the story ends in, "...happily ever after." But, if you would like to continue your legend, Summoner, then I have prepared a special pill for you - the Red Pill. Once you take it, I'll reveal to you your true potential.
