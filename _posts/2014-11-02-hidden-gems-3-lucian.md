@@ -108,7 +108,7 @@ If we find ourselves being assassinated by Zed, we can buy Mercurial Scimitar. B
 
 *(image from leagueoflegend.wikia.com)*
 
-If we want more DPS, buy an Infinity Edge to total to 50% Crit Rate and 250% Crit Strike Damage. I personally don't like Infinity Edge because it's extremely cost efficient, and the boost to Crit Strike Damage is only a 25% increase in DPS (2.5/2.0=1.25). Youmu's Ghostblade mathematically gives more DPS when the active is up. Only buy Infinity Edge if we have an extreme excess of gold and if there are no Assassins.
+If we want more DPS, buy an Infinity Edge to total to 50% Crit Rate and 250% Crit Strike Damage. I personally don't like Infinity Edge because it's extremely cost inefficient, and the boost to Crit Strike Damage is only a 25% increase in DPS (2.5/2.0=1.25). Youmu's Ghostblade mathematically gives more DPS when the active is up. Only buy Infinity Edge if we have an extreme excess of gold and if there are no Assassins.
 
 ![Lucian best build armor penetration - lol theorycrafting, ](/images/content/hg-trinity-force.png)
 
