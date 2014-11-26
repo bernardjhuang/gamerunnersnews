@@ -8,7 +8,7 @@ author_coach: "http://gamerunners.gg/coaches/3"
 date: 2014-11-25
 categories: lol
 tags: theorycraft
-thumbnail: ""
+thumbnail: "/images/content/damage-champions-per-minute.jpg"
 ---
 
 Had trouble last season carrying against impossible odds? Looking for a new style or philosophy to carry the uncarryable? If so, when it comes to turning the mathematical odds upside down, High Damage Champs might be just what you're looking for.
