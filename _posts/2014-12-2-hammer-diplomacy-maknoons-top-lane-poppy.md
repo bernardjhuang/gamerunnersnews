@@ -74,7 +74,7 @@ So, is MakNooN’s play in this game flawless?
 
 <b><i>Hell no!</i></b>
 
-But what it is is a master class in one thing: <b>staying relevant</b>. If there is one lesson I can impart in this article, it is how MakNooN kept himself in this game on a champion traditionally considered to be useless if shut down early (and he certainly was so). Understanding what you can do on Poppy (and any champion really) when you start the game is a critical part of improving at League of Legends.
+But what it is is a master class in one thing: <b>staying relevant</b>. If there is one lesson I can impart in this article, it is how <b>MakNooN</b> kept himself in this game on a champion traditionally considered to be useless if shut down early (and he certainly was so). Understanding what you can do on Poppy (and any champion really) when you start the game is a critical part of improving at <a href="http://na.leagueoflegends.com/">League of Legends</a>.
 
 On the other side of the equation, I also want to discuss how <b>Fusion</b> reacts to <b>MakNooN’s</b> early struggles, and what they do as a team to keep him in it – because knowing how to play with someone who is behind is just as important as known how to play from behind yourself. 
 
@@ -82,7 +82,7 @@ With these two goals in mind, let’s jump in.
 
 ## Staying Relevant: MakNooN’s Side of the Story
 
-Giving up first blood on a Poppy is never what you want to do – and giving up a death immediately after Teleporting is even worse. But sadly both of these things are the way MakNooN starts out this game. Left in a dangerous 2v1 situation at the start of the match, Enemy immediately takes advantage of Poppy’s early weakness and complete lack of waveclear, diving MakNooN under the tier one tower for a quick first blood. 
+Giving up first blood on a Poppy is never what you want to do – and giving up a death immediately after Teleporting is even worse. But sadly both of these things are the way MakNooN starts out this game. Left in a dangerous 2v1 situation at the start of the match, <b>Enemy</b> immediately takes advantage of Poppy’s early weakness and complete lack of waveclear, diving <b>MakNooN</b> under the tier one tower for a quick first blood. 
 
 ![]()
 
@@ -90,7 +90,7 @@ Not even Level 3 four minutes into the game and without a creep kill to his name
 
 The consequences of the dive are immediately apparent – without his Ghost, <b>MakNooN</b> once again finds himself the target of a dive under his tower which leads to a second death within three minutes of each other. Enemy clearly recognized that a Poppy shut down early is a weak Poppy, and do their best to punish <b>MakNooN</b> for his errors, no matter how minor. 
 
-After such a bad start, <b>MakNooN’s</b> first thought is to get himself and open lane in which to recover. Notice how quickly finds himself a home back in the top lane once Nien leaves to go group with the rest of Fusion. Taking advantage of the time alone, MakNooN quickly double his farm numbers and picks up the all-critical level six. 
+After such a bad start, <b>MakNooN’s</b> first thought is to get himself and open lane in which to recover. Notice how quickly finds himself a home back in the top lane once <b>Nien</b> leaves to go group with the rest of <b>Fusion</b>. Taking advantage of the time alone, <b>MakNooN</b> quickly double his farm numbers and picks up the all-critical level six. 
 
 Another important thing to note is how immediately aggressive <b>MakNooN</b> is as soon as he picks up his ultimate – he looks to make sure of it right away and press his advantage, no matter how small it is. Moving towards <b>Enemy’s</b> blue buff, he swiftly finds himself surrounded but thanks to the power of <b>Diplomatic Immunity</b> is still able to trade one for one in a 1v3 scenario. 
 
@@ -118,7 +118,7 @@ Throughout the mid-game, <b>MakNooN</b> always seems to find an open lane to pus
 
 Look at the change in <b>MakNooN’s</b> play once he hits his first major item spike – <b>Trinity Force</b>. Although throughout the game he often grouped with his team for objective pushes and Dragon fights (and more often than not was the sacrificial lamb), the Tri-Force signals a shift in <b>MakNooN’s</b> priorities due to the fact that the item is such a significant step up in terms of his damage and survivability.
 
-From then on, <b>MakNooN</b> is rarely far from his team – they now need his damage and assassination potential to close out fights onto the damage dealers of <b>Enemy</b>e, who have a significant front line advantage in <b>BodyDrop’s</b> Braum and <b>Cackgod’s </b>Maokai. 
+From then on, <b>MakNooN</b> is rarely far from his team – they now need his damage and assassination potential to close out fights onto the damage dealers of <b>Enemy</b>, who have a significant front line advantage in <b>BodyDrop’s</b> Braum and <b>Cackgod’s </b>Maokai. 
 
 <b>MakNooN</b> is now strong enough to do his job properly: kill the squishies. And the fight at 23 minutes perfectly demonstrates not only Poppy’s potential but also how to play her in a teamfight. Look at how <b>MakNooN</b> runs right past <b>CackGod</b> and <b>BodyDrop</b> thanks to his ultimate and goes straight for <b>Wolfe</b> – he doesn’t care about his team following up, only about doing his job of eliminating a single target. 
 
