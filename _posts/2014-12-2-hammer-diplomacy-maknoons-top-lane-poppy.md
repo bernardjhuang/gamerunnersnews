@@ -9,10 +9,10 @@ author_profile: "LoL Pro Analyst"
 date: 2014-12-2
 categories: lol
 tags: pro-analysis
-thumbnail: ""
+thumbnail: "/images/content/maknoon_poppy_quad_2.png"
 ---
  
-![]()
+![MakNooN's Top-Lane Poppy banner](/images/content/maknoon_poppy_1.png)
 
 After he announced he was coming out of semi-retirement and moving to North America to compete in the <b>LCS Expansion</b>, many people expect a lot from Korean legend Yoon <b>"MakNooN"</b> Ha-woon. Known for his <i>incredibly aggressive play and tower-diving tendencies</i>, <b>MakNooN</b> has been a crowd favorite for many years thanks to his tenures on both <b>NaJin Sword</b> and <b>CJ Entus Frost</b>.
 
@@ -28,7 +28,7 @@ Before we jump into the games, however, I want to go over what makes Poppy a leg
 
 <u>The Secret Passive:</u> Quite possibly the most underappreciated aspect of Poppy is her passive, most likely since it reads so weird: 
 
-![]()
+![MakNooN's Top-Lane Poppy](/images/content/maknoon_poppy_passives.png)
 
 But when fully understood, Poppy's passive must be recognized as one of the best in the game since it gives her a level of deceptive tankiness that goes far beyond her items. The key word in her passive is "current" - basically, her passive scales effectively no matter what HP she might be at.
 
@@ -60,7 +60,7 @@ So despite her early weaknesses, Poppy brings a lot to the table in terms of sur
 
 But how do we bring her into a game? It’s time to dive into <b>Team Fusion versus Enemy eSports Game One</b> and learn from one of the best.
 
-![]()
+![MakNooN's Top-Lane Poppy](/images/content/maknoon_poppy_2.png)
 
 ## Team Fusion vs. Enemy Esports: The Game and the Goal
 
@@ -84,7 +84,7 @@ With these two goals in mind, let’s jump in.
 
 Giving up first blood on a Poppy is never what you want to do – and giving up a death immediately after Teleporting is even worse. But sadly both of these things are the way MakNooN starts out this game. Left in a dangerous 2v1 situation at the start of the match, <b>Enemy</b> immediately takes advantage of Poppy’s early weakness and complete lack of waveclear, diving <b>MakNooN</b> under the tier one tower for a quick first blood. 
 
-![]()
+![MakNooN's Top-Lane Poppy](/images/content/maknoon_poppy_diving_1.png)
 
 Not even Level 3 four minutes into the game and without a creep kill to his name, <b>MakNooN</b> nevertheless does his best to contribute, linking up with <b>NintendudeX</b> and <b>ChunkyFresh</b> in an aggressive gank onto <b>Otter</b> and <b>BodyDrop</b> – even with his early death, <b>MakNooN</b> knows that his<b> Heroic Charge</b> is the extra little bit of crowd control needed to close out some kills, and as such shows no hesitation for diving into two people. Picking up <b>Inori</b> and <b>Otter</b> in the dive, <b>Fusion</b> nevertheless overstays their welcome which forces <b>MakNooN</b> once again to back away from his precious farm. 
 
@@ -94,7 +94,7 @@ After such a bad start, <b>MakNooN’s</b> first thought is to get himself and o
 
 Another important thing to note is how immediately aggressive <b>MakNooN</b> is as soon as he picks up his ultimate – he looks to make sure of it right away and press his advantage, no matter how small it is. Moving towards <b>Enemy’s</b> blue buff, he swiftly finds himself surrounded but thanks to the power of <b>Diplomatic Immunity</b> is still able to trade one for one in a 1v3 scenario. 
 
-![]()
+![MakNooN's Top-Lane Poppy](/images/content/maknoon_poppy_one_for_one.png)
 
 ### Why is this the correct play? 
 
@@ -114,7 +114,7 @@ Heading into the mid-game, <b>MakNooN’s</b> scoreline does not look good on pa
 
 Throughout the mid-game, <b>MakNooN</b> always seems to find an open lane to push or a neutral camp to clear as his team pushes their advantage across the map. And thanks to the experience disadvantage that is the result of <b>Enemy’s</b> relentless multi-man ganks onto <b>MakNooN</b>, they need to send all five members to deal with <b>Fusion’s</b> four, father freeing <b>MakNooN</b> to farm up. 
 
-![]()
+![MakNooN's Top-Lane Poppy](/images/content/maknoon_poppy_diving_2.png)
 
 Look at the change in <b>MakNooN’s</b> play once he hits his first major item spike – <b>Trinity Force</b>. Although throughout the game he often grouped with his team for objective pushes and Dragon fights (and more often than not was the sacrificial lamb), the Tri-Force signals a shift in <b>MakNooN’s</b> priorities due to the fact that the item is such a significant step up in terms of his damage and survivability.
 
@@ -124,7 +124,7 @@ From then on, <b>MakNooN</b> is rarely far from his team – they now need his d
 
 And although he drops immediately after, he draws enough focus and cooldowns for <b>Fusion</b> to reengage onto the weakened <b>Enemy</b> team and clean up the fight. 
 
-![]()
+![MakNooN's Top-Lane Poppy](/images/content/maknoon_poppy_quad.png)
 
 Even though <b>MakNooN</b> struggled in the early game and is still not in an ideal position early on in the mid game, he recognizes that if he trades his life for Wolfe or Otter, it is more than worth it. He never allows his poor position in the game to become a liability, but instead throws himself onto the fire for the sake of his team. 
 
@@ -138,11 +138,11 @@ But he made it work by sticking to his guns and making himself useful even in de
 
 I suggest you watch this game again to truly appreciate how deliberate <b>MakNooN</b> is in all his movements. While it might seem at first watch to be a random, overaggressive play style, I guarantee each and every decision he made was for the good of the team and to get himself back into the game when all seemed lost.
 
-![]()
+![MakNooN's Top-Lane Poppy](/images/content/maknoon_poppy_quad_2.png)
 
 ## Helping Hand: The Rest of Fusion
 
-![]()
+![MakNooN's Top-Lane Poppy](/images/content/maknoon_poppy_3.png)
 
 I won’t make this section too long since I wanted to focus on <b>MakNooN</b> as much as possible: but I do think it is important to recognise the excellent work <b>Fusion</b> do as a team to compensate for <b>MakNooN’s</b> rough early start. So, I’m going to point out some of the key details of what <b>Fusion</b> does to get their Poppy back in the game – 
 
@@ -156,13 +156,13 @@ These are just a few tips to keep in mind when playing with someone who is strug
 
 ## By the Numbers
 
-![]()
+![MakNooN's Top-Lane Poppy](/images/content/maknoon_poppy_4.png)
 
 ### Skill Build:
 
-![]()
+![MakNooN's Top-Lane Poppy](/images/content/maknoon_poppy_abs.png)
 
-**Source: [Probuilds.net](http://probuilds.net)**
+*Source: [Probuilds.net](http://probuilds.net)*
 
 As her main damage source, <b>Devastating Blow (Q)</b> should be maxed first. While its damage does not increase significantly with skill points (but with items), the cooldown is halved at max level and the mana cost does not increase, making it an extremely efficient skill to have maxed by level 9. <b>Heroic Charge (E)</b>, is a skill which I like to call a "One Point Wonder" - that is to say, one point is often enough for the majority of the game. Despite the fact that the damage goes up significantly with levels, the STUN duration does not, meaning that one point early provides you with all the utility need for the early levels. Max it last. Poppy's W, <b>Paragon of Demacia</b>, should be taken at level one and maxed second - the massive increase to armor, attack damage and most importantly, movement speed, are all to good to pass up at a very affordable 90 mana. And of course her Ultimate, <b>Diplomatic Immunity</b>, should be taken at 6, 11, and 16 and used whenever it is off cooldown. 
 
@@ -186,13 +186,13 @@ Like with items, I’d say your rune setup should change game to game – are yo
 
 Either way, a good base rune page could look something like this:
 
-![]()
+![MakNooN's Top-Lane Poppy](/images/content/maknoon_poppy_runes.png)
 
 This page gives a nice balance of early defensive stats with a nice bit of Attack Damage for early trades.
 
 ### Masteries:
 
-![]()
+![MakNooN's Top-Lane Poppy](/images/content/maknoon_poppy_masteries.png)
 
 If <b>MakNooN’s</b> play is anything to go on, who needs defense? As an assassin, a 21-9-0 Masteries setup is perfectly viable on Poppy.
 
