@@ -112,7 +112,7 @@ It is at this point that the high level of focus that <b>Enemy</b> put onto <b>M
 
 Heading into the mid-game, <b>MakNooN’s</b> scoreline does not look good on paper – at a miserable 1/5/2, you might think that he was struggling greatly. And yet, the opposite is true. Despite his score <b>MakNooN</b> is still ahead of <b>Cackgod</b> in terms of both gold and experience. Soaking up so much pressure from <b>Enemy</b> in the early game gave the rest of <b>Fusion</b> the ability to completely take over the map, and once <b>Enemy</b> realized their error, it was too late. 
 
-Throughout the mid-game, <b>MakNooN</b> always seems to find an open lane to push or a neutral camp to clear as his team pushes their advantage across the map. And thanks to the experience disadvantage that is the result of <b>Enemy’s</b> relentless multi-man ganks onto <b>MakNooN</b>, they need to send all five members to deal with Fusion’s four, father freeing <b>MakNooN</b> to farm up. 
+Throughout the mid-game, <b>MakNooN</b> always seems to find an open lane to push or a neutral camp to clear as his team pushes their advantage across the map. And thanks to the experience disadvantage that is the result of <b>Enemy’s</b> relentless multi-man ganks onto <b>MakNooN</b>, they need to send all five members to deal with <b>Fusion’s</b> four, father freeing <b>MakNooN</b> to farm up. 
 
 ![]()
 
