@@ -32,7 +32,7 @@ Before we jump into the games, however, I want to go over what makes Poppy a leg
 
 But when fully understood, Poppy's passive must be recognized as one of the best in the game since it gives her a level of deceptive tankiness that goes far beyond her items. The key word in her passive is "current" - basically, her passive scales effectively no matter what HP she might be at.
 
-Say for example Poppy has 100 health and is hit by a skill that would deal 50 damage (after armor/magic resistance reduction). Since 50 damage <b>EXCEEDS</b> 10% of her current health, that damage is halved down to 25. The same is true if he has 1000 health and is hit by 150 damage - she instead takes 75 damage. While this passive might seem that strong at first, it makes Poppy <i>EXTREMELY</i> difficult to burst down and gives her a level of survivability which can be completely unexpected. You’ll often last a little bit longer in fights than anticipated, giving you the crucial seconds you need to land one last Devastating Blow.
+Only the PORTION of damage that exceeds 10% of her current health is halved. For example, let's say Poppy is at 200 HP and takes 80 damage. That's 20 (10% of her current health) plus 60 (the amount that exceeds it). The 60 is halved to 30, so she takes 20 + 30 = 50 damage. While this passive might seem that strong at first, it makes Poppy <i>EXTREMELY</i> difficult to burst down and gives her a level of survivability which can be completely unexpected. You’ll often last a little bit longer in fights than anticipated, giving you the crucial seconds you need to land one last Devastating Blow.
 
 For a perfect example of just how effective Poppy’s passive can be, watch this video: 
 
