@@ -11,7 +11,6 @@ categories: lol
 tags: pro-analysis
 thumbnail: "/images/content/maknoon_poppy_quad_2.png"
 ---
- 
 ![MakNooN's Top-Lane Poppy banner](/images/content/maknoon_poppy_1.png)
 
 After he announced he was coming out of semi-retirement and moving to North America to compete in the <b>LCS Expansion</b>, many people expect a lot from Korean legend Yoon <b>"MakNooN"</b> Ha-woon. Known for his <i>incredibly aggressive play and tower-diving tendencies</i>, <b>MakNooN</b> has been a crowd favorite for many years thanks to his tenures on both <b>NaJin Sword</b> and <b>CJ Entus Frost</b>.
