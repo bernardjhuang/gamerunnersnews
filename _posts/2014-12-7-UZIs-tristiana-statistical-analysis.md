@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "UZI's Tristiana: Statisticsal Analysis"
+title:  "UZI's Tristiana: Statistical Analysis"
 description: "During UZI picked Tristana in 3 out of 4 games in the final, Tristana is his most played champion throughout the tournament earning him a 57% winrate despite 3 of the games being against SSW."
 author: "Matthew T"
 author_image: "https://ws.elance.com/php/files/main/download.php?crypted=Y3R4JTNEcHJvZmlsZV9pbWFnZSUyNmZpZCUzRDEyNzA3NDgyNCUyNnJpZCUzRC0xJTI2cGlkJTNENzk5Mzc0MSUyNnQlM0Qx"
