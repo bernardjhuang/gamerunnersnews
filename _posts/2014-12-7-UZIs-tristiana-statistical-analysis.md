@@ -8,7 +8,7 @@ author_profile: "Professional Esports Journalist"
 date: 2014-12-7
 categories: lol
 tags: pro-analysis
-thumbnail: "/images/content/uzi-tristiana-masteries.png"
+thumbnail: "/images/content/uzi-tristiana.png"
 ---
 
 Tristana has proved to be a formidable ADC drawing a 50% pick ban rate during the World Championships. The champion was shown at its full potential in the hands of Jian ZiHao, better known as Royal Club’s UZI. During UZI picked Tristana in 3 out of 4 games in the final, Tristana is his most played champion throughout the tournament earning him a 57% winrate despite 3 of the games being against SSW. 
@@ -37,6 +37,6 @@ Against an AD lane he takes 4 more attack speed glyphs but when he plays against
 
 ## Masteries
 
-![Uzi's Tristiana masteries](/images/content/uzi-tristiana-masteries.png)
+![Uzi's Tristiana masteries](/images/content/uzi-tristiana.png)
  
 In terms of masteries, UZI runs the standard 21/9 masteries on Tristana. It is important to note that he either does not take a point in Warlord and Blade Weaving in favor for Dangerous Game.  UZI does this because he plays with a high risk high reward playstyle and Dangerous Game allows UZI to make those clutch plays he has become renowned for. The standard 9 defense allows him to trade efficiently in lane and is what he runs on all champions.
