@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hammer Diplomacy: MakNooN’s Top-lane Poppy"
+title:  "MakNooN’s Top-lane Poppy: Hammer Diplomacy"
 description: "After he announced he was coming out of semi-retirement and moving to North America to compete in the LCS Expansion, many people expect a lot from Korean legend Yoon 'MakNooN' Ha-woon."
 excerpt: "After he announced he was coming out of semi-retirement and moving to North America to compete in the LCS Expansion, many people expect a lot from Korean legend Yoon 'MakNooN' Ha-woon. Known for his incredibly aggressive play and tower-diving tendencies, MakNooN has been a crowd favorite for many years thanks to his tenures on both NaJin Sword and CJ Entus Frost."
 author: "Nicholas Doucet"
