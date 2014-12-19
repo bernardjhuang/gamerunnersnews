@@ -8,7 +8,7 @@ author_profile: "Professional Esports Journalist"
 date: 2014-12-18
 categories: lol
 tags: pro-analysis
-thumbnail: "kikis-twisted-fate.png"
+thumbnail: "/images/content/kikis-twisted-fate.png"
 ---
 
 Season 4 has been dominated with **high mobility high damage junglers** such as Lee Sin, Pantheon and Kha’zix. They provided damage and the necessary early game power to force early ganks which would lead to snowballed victories. Following the season 5 jungle changes the **jungle has been greatly diversified** and increased the skill needed to jungle. The changes ensured that all junglers were somewhat viable and nerfed the potential of non-sustain junglers mentioned above. Although these changes spawned a new terror of soloque, Warwick, the **new items and smite allowed new junglers to arise**, occasionally trumping the might of the standard picks.
