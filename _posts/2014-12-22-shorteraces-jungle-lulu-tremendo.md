@@ -11,8 +11,8 @@ categories: lol
 tags: pro-analysis
 thumbnail: "/images/content/shorteraces-lulu-jungle-champ-select.png"
 ---
-
-![ShorterACE's Lulu Jungle](/images/content/shorteraces-lulu-jungle.png)
+<p style="text-align:center;"><img src="/images/content/shorteraces-lulu-jungle.png" alt="ShorterACE's Lulu Jungle" />
+</p>
 
 Welcome ladies and gentleman of the internet to another pro player analysis.
 
@@ -24,18 +24,21 @@ And, yes, <b><u><i>I AM AWARE</i></u></b> that Final 5 lost the match and that t
 
 Unlike my other articles, I will not be analysing the game in this article: as mentioned, Final 5 lost the match and the jungle Lulu did little to deter that. As explained by ShorterACE himself, the lanes fell too far behind and Shorter was unable to punish Impaler for his aggressive play.
 
-<blockquote class="twitter-tweet" data-conversation="none" lang="en"><p><a href="https://twitter.com/bernardjhuang">@bernardjhuang</a> <a href="https://twitter.com/ImpulseLoL">@ImpulseLoL</a> lanes got behind didn&#39;t pressure impaler hard for being too aggressive. Meant for counterganking</p>&mdash; Ryan Nget (@ShorterACE) <a href="https://twitter.com/ShorterACE/status/544207679208435712">December 14, 2014</a></blockquote>
+<blockquote class="twitter-tweet tw-align-center" data-conversation="none" lang="en"><p><a href="https://twitter.com/bernardjhuang">@bernardjhuang</a> <a href="https://twitter.com/ImpulseLoL">@ImpulseLoL</a> lanes got behind didn&#39;t pressure impaler hard for being too aggressive. Meant for counterganking</p>&mdash; Ryan Nget (@ShorterACE) <a href="https://twitter.com/ShorterACE/status/544207679208435712">December 14, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Therefore, I’ll make this a short and sweet look at the theory behind the pick and why it works, as well as how you can apply this sort of strategy in your own play.
 
 So without further ado, let’s take a look:
 
+<div style="text-align:center;">
 <iframe width="560" height="315" src="//www.youtube.com/embed/-BHDpUTvXOQ" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ## The Theory
 
-![ShorterACE's Lulu Jungle](/images/content/shorteraces-lulu-jungle-2.png)
+<p style="text-align:center;"><img src="/images/content/shorteraces-lulu-jungle-2.png" alt="ShorterACE's Lulu Jungle" />
+</p>
  
 ### Staying Healthy, Lulu’s Kit and Soft Resets
 
@@ -43,7 +46,8 @@ At the heart of what makes squishy ranged junglers like Lulu work is the ability
 
 Basically, by standing just at the edge of a jungle camp’s reset range and attacking, the mobs become confused and run back and forth a few times before totally resetting. This “soft” reset allows ranged jungle to still attack the creeps while taking minimal damage, compensating for their low health and armor by not allowing the creeps to attack them in response. 
 
-![ShorterACE's Lulu Jungle Soft Resets](/images/content/shorteraces-lulu-jungle-soft-resets.png)
+<p style="text-align:center;"><img src="/images/content/shorteraces-lulu-jungle-soft-resets.png" alt="ShorterACE's Lulu Jungle Soft Resets" />
+</p>
  
 This works especially well for Lulu since most of her skills enhance the soft reset strategy. In combination with her Help Pix! (E) shield, soft resets allow you to stay quite healthy despite Lulu’s complete lack of sustain and the new jungle’s increased difficulty. Her Glitterlance (Q) gives solid area of effect damage and the massive slow help you kite the larger mobs around, while her passive significantly boosts her auto-attack damage. Interweaving auto-attacks between cooldowns is vital for greatly increasing Lulu’s DPS, which means faster clears and safer jungling. 
 
@@ -57,7 +61,8 @@ So you might be asking yourself – Ok, with some skill and by abusing soft rese
 
 According to Shorter, the main purpose of Lulu is to counter-gank – which in theory maker perfect sense. Lulu’s entire kit and playstyle is focused around arriving to the fight quickly and turning it around with her insanely high level of utility and protection abilities. Especially when picked into an enemy jungler who needs to commit all-in to get kills such as Pantheon (which Impaler picked in this case), Lulu’s suite of crowd control abilities and shields can easily keep her ally alive and swing a 2v2 (or 3v3) engagement on its head while denying kills to the opposing team.
 
-![ShorterACE's Lulu Jungle Counter-gank](/images/content/shorteraces-lulu-jungle-counter-gank.png)
+<p style="text-align:center;"><img src="/images/content/shorteraces-lulu-jungle-counter-gank.png" alt="ShorterACE's Lulu Jungle Counter-gank" />
+</p>
  
 They key here is <u><i>punishing aggression</i></u> since Lulu herself is not really the ideal ganker: once her CC is expended her overall damage is low and her cooldowns are very long (especially without items). But what she is excellent at is capitalizing on opponent’s mispositioning or over-aggression by keeping them locked in that unfavorable situation until they have no hope of escape.
 
@@ -69,7 +74,8 @@ All this is to say that vision control is of the utmost importance when playing 
 
 ### Channeling CLG: Protect the Carry
 
-![ShorterACE's Lulu Jungle](/images/content/shorteraces-lulu-jungle-champ-select.png)
+<p style="text-align:center;"><img src="/images/content/shorteraces-lulu-jungle-champ-select.png" alt="ShorterACE's Lulu Jungle" />
+</p>
  
 So now we understand the why and how, all that remains is to answer the <i>when</i>. 
 
@@ -81,7 +87,8 @@ That being said I find it hard to recommend Lulu into a “one-core” compositi
 
 ## By the Numbers
 
-![ShorterACE's Lulu Jungle](/images/content/shorteraces-lulu-jungle-4.png)
+<p style="text-align:center;"><img src="/images/content/shorteraces-lulu-jungle-4.png" alt="ShorterACE's Lulu Jungle" />
+</p>
  
 ### Items:
 
@@ -95,7 +102,8 @@ Lastly, the boot choices for Lulu are interesting – ShorterACE went mobility b
 
 ### Runes
 
-![ShorterACE's Lulu Jungle Runes](/images/content/shorteraces-lulu-jungle-runes.png)
+<p style="text-align:center;"><img src="/images/content/shorteraces-lulu-jungle-runes.png" alt="ShorterACE's Lulu Jungle Runes" />
+</p>
 
 *Source: [Leaguecraft.com](http://leaguecraft.com)*
 
@@ -113,7 +121,8 @@ Overall this is a highly custom rune page but works together to give Lulu the be
 
 ### Masteries 
 
-![ShorterACE's LuLu Jungle Masteries](/images/content/shorteraces-lulu-jungle-masteries.png)
+<p style="text-align:center;"><img src="/images/content/shorteraces-lulu-jungle-masteries.png" alt="ShorterACE's Lulu Jungle Masteries" />
+</p>
 
 Like the Runes, the Masteries run by Shorter is a bit of a mish-mash between attack damage enhancement and spell power. Taking the full complement of attack damage and ability power masteries in Offense along with Arcane Blade once again helps enhance Lulu’s natural strong auto-attacks. The other choices in Offence simply boost Lulu’s damage across the board.
 
