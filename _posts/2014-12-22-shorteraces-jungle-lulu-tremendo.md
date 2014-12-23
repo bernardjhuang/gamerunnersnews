@@ -5,6 +5,7 @@ description: "When jungler Ryan “ShorterACE” Nget picked the Fae Soceress in
 excerpt: "As one of the dark horse teams in the NA LCS Expansion Tournament, Final 5 caught my attention with their play. But I knew that in order to pull out a victory they would have to play some crazy stuff – and they did! When jungler Ryan “ShorterACE” Nget picked the Fae Soceress in their set against Team Coast, I was practically giddy with excitement. One of my favorite champions – and in the jungle no less?"
 author: "Nicholas Doucet"
 author_image: "https://ws.elance.com/php/files/main/download.php?crypted=Y3R4JTNEcHJvZmlsZV9pbWFnZSUyNmZpZCUzRDEyNDQ2MTMxMSUyNnJpZCUzRC0xJTI2cGlkJTNENzY3NjI2NyUyNnQlM0Qx"
+author_coach: "https://twitter.com/ImpulseLoL"
 author_profile: "LoL Pro Analyst"
 date: 2014-12-22
 categories: lol
