@@ -6,7 +6,7 @@ excerpt: "Samsung White’s mid laner PawN is thought by many to be the best Jay
 author: "Stoil V"
 author_image: "https://ws.elance.com/php/files/main/download.php?crypted=Y3R4JTNEcHJvZmlsZV9pbWFnZSUyNmZpZCUzRDEyNzc1ODI0NyUyNnJpZCUzRC0xJTI2cGlkJTNEODAzNjQ2OSUyNnQlM0Qx"
 author_profile: "Esports Pro Analyst"
-date: 2014-12-26
+date: 2014-12-25
 categories: lol
 tags: pro-analysis
 thumbnail: "/images/content/ssw-pawn-godlike-jayce-insec.jpg"
