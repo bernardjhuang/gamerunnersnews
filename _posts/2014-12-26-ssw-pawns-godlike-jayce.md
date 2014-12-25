@@ -11,7 +11,6 @@ categories: lol
 tags: pro-analysis
 thumbnail: "/images/content/ssw-pawn-godlike-jayce-insec.jpg"
 ---
-
 ## Game 1, League of Legends Season 4 World Championship
 
 ### Samsung White vs. Star Horn Royal Club
