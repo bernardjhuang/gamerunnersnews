@@ -97,6 +97,55 @@ Basically, we're going to have 2 different ratio charts for DPS for before Infin
 
 With these units of measuring, we now just have to keep them in symmetry to minimalize Diminishing % Returns to optimize our stat ratios.
 
+<h2 id="ratios"> Optimum AD Carry Stat Ratio</h2>
+
+Ideal sample ratios:
+
+> With 1 unit in Health, Armor,  Magic Resist, AD, and Attack Speed, we have 0.375 Health x 0.00025 Armor x 0.00025 Magic Resist x 0.028 AD x 0.00033 Attack Speed x 0.0002 Crit. Rate ...
+
+> With 2 units in Health, Armor, Magic Resist, AD, and Attack Speed, we have 0.75 Health x 0.0005 Armor x 0.0005 Magic Resist, 0.056 AD x  0.00067 Attack Speed. x 0.0004 x Crit. Rate...
+
+> With 3 units in Health, Armor, Magic Resist, AD, and Attack Speed, we have 1.125 Health x 0.001 Armor, 0.001 Armor, about 0.083 AD, and about 0.001 Attack Speed x 0.0006 Crit. Rate ...
+
+...
+
+...
+
+...
+
+
+> With 3000 units in Health, Armor, Magic Resist, AD, Attack Speed, and Crit. Rate, we have 1125 Health x 0.75 Armor x 0.75 Magic Resist x 83 AD x 0.99 Attack Speed x 0.6 Crit Rate 
+
+> **(1125 Health, 0 Armor, 0 Magic Resist, 83 AD, 0 Attack Speed, 0% Crit Rate)**
+
+> With 4000 units in Health, Armor, Magic Resist, AD, Attack Speed, and Crit. Rate, we have 1500 Health x 1.0 Armor x 1.0 Magic Resist x  111 AD x 1.33 Attack Speed x 0.8 Crit. Rate 
+
+> **(1500 Health, 0 Armor, 0 Magic Resist, 111 AD, 33% Attack Speed, 0% Crit Rate)**
+
+> With 5000 units in Health, Armor Magic Resist, AD, Attack Speed, and Crit. Rate, we have 1875 Health x 1.25 Armor x 1.25 Magic Resist x 139 AD x 1.67 Attack Speed x 1.0 Crit Rate 
+
+> **(1875 Health, 25 Armor, 25 Magic Resist, 139 AD,  67% Attack Speed, 0 Crit Rate)**
+
+> With 6000 units in Health, Armor, Magic Resist, AD, Attack Speed, and Crit. Rate,  we have 2250 Health x 1.5 Armor x 1.5 Magic Resist x 167 AD x 1.99 Attack Speed x 1.2 Crit. Rate 
+
+> **(2250 Health, 50 Armor, 50 Magic Resist, 167 AD, and 99% Attack Speed, 20% Crit Rate)**
+
+> With 7000 units in Health, Armor, Magic Resist, AD, Attack Speed, and Crit. Rate, we have 2625 Health x 1.75 Armor x 1.75 Magic Resist x 194 AD x 2.33 Attack Speed, 1.4 Crit Rate 
+
+> **(2625 Health, 75 Armor, 75 Magic Resist, 194 AD, 133 Attack Speed, 40% Crit Rate)**
+
+> With 8000 units in Health, Armor, Magic Resist, AD, Attack Speed, and Crit. Rate, we have 3000 Health x 2.0 Armor x 2.0 Magic Resist x  222 AD x 2.67 Attack Speed x 1.6 Crit Rate 
+
+> **(3000 Health, 100 Armor, 100 Magic Resist, 222 AD, and 167% Attack Speed, 60% Crit Rate)**
+
+> With 9000 units in Health, Armor, Magic Resist, AD, Attack Speed, and Crit. Rate, we have 3375 Health x 2.25 Armor x 2.25 Magic Resist x 250 AD x 2.99 Attack Speed x 1.8 Crit Rate 
+
+> **(3375 Health, 125 Armor, 125 Magic Resist, 250 AD, 199% Attack Speed, 80% Crit Rate)**
+
+> With 10000 units in Health, Armor, Magic Resist, AD, Attack Speed, and Crit. Rate, we have 3750 Health x 2.5 Armor x 2.5 Magic Resist x 278 AD x 3.33 Attack Speed x 2.0 Crit Rate 
+
+> **(3375 Health, 150 Armor, 150 Magic Resist, 278 AD, 233% Attack Speed, 100% Crit Rate)**
+
 <h2 id="ratios"> Optimum AD Carry Stat Ratio w/ Infinity Edge</h2>
 
 Ideal sample ratios:
