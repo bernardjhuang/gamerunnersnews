@@ -6,7 +6,7 @@ excerpt: "Do you main AD Carry? Ever wondered how much Life Steal you should inv
 author: "Samuel Kuo"
 author_profile: "a LoL theory crafter and an innovator that digs deep"
 author_coach: "http://gamerunners.gg/coaches/3"
-date: 2014-11-03
+date: 2014-12-27
 categories: lol
 tags: math
 thumbnail: "/images/content/adc-3.png"
@@ -22,11 +22,17 @@ Our [previous article decoded the optimum ratio between Health, Armor, AD and At
 
 ## The Value of Crit Rate
 
-Let's say we have a 1% Crit Rate, and we deal 1 damage per hit. Over the course of 100 hits, it is statistically likely that we'll Crit. Strike approximately 1 time. If we do Crit Strike only once, we deal 99 damage via normals, and 2 damage via a Crit Strike. Therefore, in total, we deal 101 damage. Compare this damage to 100 damage if we had no Crit Rate. Thus, we can approximate that one unit of Crit Rate increases our DPS by **+1%**.
+In League of Legends, proccing a Crit. Strike means we deal twice the damage. At 100% Crit Rate, obviously we would be dealing 2 times more damage since every hit is Critting; thus, twice the DPS. But what's the DPS of when we have 1% Crit Rate?
 
-**The addition of Infinity Edge does not change the value of Crit Rate. It simply adds +1.25% to our DPS (2.5/2.0=1.25).
+Let’s say we have a 1% Crit Rate, and we deal 1 damage per hit. Over the course of 100 hits, it is statistically likely that we’ll Crit. Strike approximately 1 time. If we do Crit Strike only once, we deal 99 damage through normal hits, and 2 damage through a Crit Strike. In total, we deal 101 damage. Compare this damage to 100 damage if we had no Crit Rate (100 damage by 100 normal hits). Dividing the two where we had 1% Crit Rate and where we had 0% Crit Rate, we see that 101/100 = 1.01, or essentially a **1% increase** in DPS. We then can simply say the true value of Crit Rate is **.01**.
 
-Now let's figure out the true value of Crit Rate with gold factored in. 
+**Remember, since it is 101/100 = 1.01, the 1.00 is equivalent to 100 free units in Crit. Rate. Therefore, 1.01 Crit Rate is actually 101 units invested into Crit Rate (1.01/.01=101). 
+
+We can also calculate DPS with a formula: **(1+(1*(Crit Rate/100)))**. To check our previous work, plug 1 into Crit Rate. We'll get **(1+(1*(1/100)))=1.01**. We've got a matching number!
+
+Now, what if we have Infinity Edge? Infinity Edge changes our Crit Damage from dealing 2.0 more damage to 2.5 damage. The DPS formula via Crit Rate changes: **(1+(1.5*(Crit Rate/100)))**. This basically changes the true value of Crit. Rate by x1.5. Therefore: .01*1.5=**0.015**. Because of this, when I list the optimum ratio for DPS later, I'll have a set for "Before Infinity Edge," and one for "After Infinity Edge." 
+
+We still need to factor in gold value, which will further change the True Value of Crit Rate.
 
 ## The Cost of Health, Armor, AD, Attack Speed, and Crit Rate
 
@@ -71,7 +77,7 @@ Costing 400 gold and giving a 8 Crit Rate, we can calculate that 400/8 = **50 go
 
 ## True Value Per stat
 
-Simply take the value of each stat and divide it by its respective gold cost to the true value. 
+Simply take the value of each stat and divide it by its respective gold cost to the true value.
 
 **Health = 1.0/(8/3) = 0.375**
 
@@ -81,19 +87,25 @@ Simply take the value of each stat and divide it by its respective gold cost to 
 
 **Attack Speed= .01/30 = 0.0003333333333333**
 
-**Crit. Rate  = .01/50 = 0.0002**
+**Crit. Rate = .01/50 = 0.0002**
+
+The true value of Crit. Rate changes with Infinity Edge, which provides a 50% bonus damage to damage dealt when we proc a crit. strike: 
+
+**Crit. Rate w/ Infintiy Edge = (.01/50)*1.5=0.0003**
+
+Basically, we're going to have 2 different ratio charts for DPS for before Infinity Edge and after Infinity Edge.
 
 With these units of measuring, we now just have to keep them in symmetry to minimalize Diminishing % Returns to optimize our stat ratios.
 
-<h2 id="ratios"> Optimum AD Carry Stat Ratio </h2>
+<h2 id="ratios"> Optimum AD Carry Stat Ratio w/ Infinity Edge</h2>
 
 Ideal sample ratios:
 
-> With 1 unit in Health, Armor,  Magic Resist, AD, and Attack Speed, we have 0.375 Health x 0.00025 Armor x 0.00025 Magic Resist x 0.028 AD x 0.00033 Attack Speed x 0.0002 Crit. Rate 
+> With 1 unit in Health, Armor, Magic Resist, AD, and Attack Speed, we have 0.375 Health x 0.00025 Armor x 0.00025 Magic Resist x 0.028 AD x 0.00033 Attack Speed x 0.0003 Crit. Rate
+ 
+> With 2 units in Health, Armor, Magic Resist, AD, and Attack Speed, we have 0.75 Health x 0.0005 Armor x 0.0005 Magic Resist, 0.056 AD x 0.00067 Attack Speed. x 0.0006 x Crit. Rate
 
-> With 2 units in Health, Armor, Magic Resist, AD, and Attack Speed, we have 0.75 Health x 0.0005 Armor x 0.0005 Magic Resist, 0.056 AD x 0.00067 Attack Speed. x 0.0004 x Crit. Rate
-
-> With 3 units in Health, Armor, Magic Resist, AD, and Attack Speed, we have 1.125 Health x 0.001 Armor, 0.001 Armor, about 0.083 AD, and about 0.001 Attack Speed x 0.0006 Crit. Rate 
+> With 3 units in Health, Armor, Magic Resist, AD, and Attack Speed, we have 1.125 Health x 0.001 Armor, 0.001 Armor, about 0.083 AD, and about 0.001 Attack Speed x 0.0009 Crit. Rate
 
 ...
 
@@ -134,9 +146,7 @@ Ideal sample ratios:
 
 > **(3375 Health, 150 Armor, 150 Magic Resist, 278 AD, 233% Attack Speed, 100% Crit Rate)**
 
-We see that Crit. Rate isn't an optimal stat Early Game. However, these stats are only optimal for a single committed fight that determines life or death. Also, though Life Steal isn't covered, go ahead and buy some Life Steal early game for sustain. The defensive stats mentioned are only an option. If we want to go Glass-Cannon, then just try to match one of higher damage stat ratios. Do not worry too much about going a bit over the maximum Attack Speed. The opposing team probably has Frozen Heart and/or Randuin's Omen. If the opposing team does have Frozen Heart or Randuin's Omen, don't worry about the ideal Attack Speed ratio changing. The value listed above remains the same.
-
-**Although these ratios are for AD carries; High-Damage Bruisers can make use of all these stats can utilize these ratios as well, such as Tryndamere and Master Yi.
+With Infinity Edge, we see that at 194 AD, we should already be maxing out Crit Rate. This means building items that comes with a lot of AD, such as Blood Thirster, will really hurt ones DPS early if building an Infinity Edge. Instead, we should look to invest into Attack Speed or Armor Penetration. Items such as Youmuu's Ghostblade, Statikk Shiv, and Blade of the Ruined King are a great complement to Infinity Edge. 
 
 ## Against Only One Type of Damage (if we are interested in defense)
 
