@@ -8,7 +8,7 @@ author_profile: "Professional Esports Journalist"
 date: 2014-12-28
 categories: lol
 tags: pro-analysis
-thumbnail: "/images/content/graves-guide-p1noy-doublelift.png"
+thumbnail: "/images/content/graves-guide-clg-iem.png"
 ---
 Taking away his cigar has been a mere hindrance to Grave’s rise in power; Graves has once again risen to popularity, taking the throne of one of the top ADCs in the Meta. In this article I will explore why Graves has his sudden resurgence in power, and how he is used to his full potential by the professional player **P1noy** from **Gambit Gaming**. Along the way, I aim to improve your understanding of Graves and how to effectively use him in your own games. 
 
