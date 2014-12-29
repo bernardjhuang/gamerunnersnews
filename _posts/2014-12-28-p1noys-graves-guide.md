@@ -16,7 +16,7 @@ Taking away his cigar has been a mere hindrance to Grave’s rise in power; Grav
 
 ## Introduction
 
-Graves has been for a long time a decently viable pick in niche situations, but nothing more than that, only sporting 35 competitive picks in the entirety of 2014 in all regions, and winning a meager **XXX%**. Though sporting unimpressive stats throughout the duration of the 4th season, he is in the perfect position to dominate the early rounds of Season 5.
+Graves has been for a long time a decently viable pick in niche situations, but nothing more than that, only sporting 35 competitive picks in the entirety of 2014 in all regions, and winning a meager **43%**. Though sporting unimpressive stats throughout the duration of the 4th season, he is in the perfect position to dominate the early rounds of Season 5.
 
 The reason for his lack of success is quite simply the fact that he has always been outclassed by other ADCS. He was never truly terrible and considered a “troll pick”, but he was always mediocre; this point was reemphasized when Lucian was released. He was quickly recognized as the better version Graves, as he did everything that Graves was good at but better. He had superior range, damage (both burst and sustained) and scaling in all phases of the game. However, Lucian has recently been repeatedly nerfed in an Irelia-like fashion, slowly whittling down his power. The other ADC which packs a powerful burst, Corki, will soon be toned down in the upcoming patches, as planned in the PBE.
 
