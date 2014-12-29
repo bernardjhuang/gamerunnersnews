@@ -58,7 +58,7 @@ Graves was picked last in Gambit’s rotation, while his support, Thresh, was pi
 
 ![Early Game IEM Cologne Finals vs CLG](/images/content/graves-guide-clg-iem.png)
 
-Early game was certainly not optimal for Gambit Gaming. **Edward** walks up into the enemy Tri-bush to get some deep wards but is forced to run around and back down after being chased by Lucian and Janna.  This means Graves is zoned out but Janna and Lucian when he arrives in lane. However, due to the damage potential of the duo, the engage as soon as Thresh returns into lane. They manage to drop **Aphromoo** down to about 220 health and take inflict 200 damage on **Doublelift**, while losing less than 100 between them. However due to being zoned out the enemy bot lane hits level 2 first, and immediately acts upon their advantage by going in, this causes them to be zoned out for most of the lane and **Doublelift has more than double Grave’s CS**. 
+Early game was certainly not optimal for **Gambit Gaming**. **Edward** walks up into the enemy Tri-bush to get some deep wards but is forced to run around and back down after being chased by Lucian and Janna. This means Graves is zoned out by Janna and Lucian when he arrives in lane. However, due to the damage potential of the duo, they engage as soon as Thresh returns into lane. They manage to drop **Aphromoo** down to about 220 health and take inflict 200 damage on **Doublelift**, while losing less than 100 between them. However due to being zoned out the enemy bot lane hits level 2 first, and immediately acts upon their advantage by going in, this causes them to be zoned out for most of the lane and **Doublelift has more than double Grave’s CS**.
 
 ![Graves optimal lane freeze](/images/content/graves-guide-lane-freeze.png)
 
