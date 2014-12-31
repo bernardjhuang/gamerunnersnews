@@ -6,7 +6,7 @@ excerpt: "Since Yasuo becomes such a dominant threat late in the game, especiall
 author: "Nicholas Doucet"
 author_image: "https://ws.elance.com/php/files/main/download.php?crypted=Y3R4JTNEcHJvZmlsZV9pbWFnZSUyNmZpZCUzRDEyNDQ2MTMxMSUyNnJpZCUzRC0xJTI2cGlkJTNENzY3NjI2NyUyNnQlM0Qx"
 author_profile: "LoL Pro Analyst"
-date: 2014-10-29
+date: 2014-12-30
 categories: lol
 tags: pro-analysis
 thumbnail: "/images/content/bjergsen-level-2-advantage.png"

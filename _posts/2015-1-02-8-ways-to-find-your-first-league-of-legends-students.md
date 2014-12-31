@@ -6,8 +6,8 @@ excerpt: "More and more people want to get better at playing LoL because being i
 author: "Bernard Huang"
 author_image: "https://pbs.twimg.com/profile_images/378800000420359228/a73e0d9f4cb08c28ebd9585a91d25c8b_400x400.jpeg"
 author_profile: "GameRunners Guy"
-author_coach: "http://www.gamerunners.gg/"
-date: 2014-12-30
+author_coach: "mailto:bernard@gamerunners.gg"
+date: 2015-1-2
 categories: lol
 thumbnail: "/images/content/get-lol-students-post-to-r-lolcoaching.png"
 ---
@@ -87,3 +87,5 @@ Creating a Twitch stream is a hard approach to building an audience these days. 
 ## 8. Facebook / Twitter
 
 Sharing your coaching profile on Facebook and Twitter can be a way of getting LoL students in the door, but only if you already have friends who are interested in receiving your services. A good way of getting LoL students from Twitter would be to search "lol coaching", #lcs, or #alistar and reach out to fellow summoners!
+
+If you have any other ways that you've gotten LoL students and would like to share, email me at [bernard@gamerunners.gg](mailto:bernard@gamerunners.gg)!
