@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "8 Ways to Find Your First LoL Students and Start Making Money Teaching LoL"
+title: "8 Ways to Find Your First LoL Students and Make Money Teaching LoL"
 description: "Where should you begin establishing your LoL coaching career, and where are all of the potential students? I'm going to show you 8 ways to start putting your League of Legends skills to work."
-excerpt: " More and more people want to get better at playing LoL because being in the Diamond or Challenger division is now a bragging right amongst your friends (and pro NA teams have 300,000+ fan bases). Where should you begin establishing your LoL coaching career, and where are all of the potential students? Here are 8 ways to start putting your League of Legends skills to work."
+excerpt: "More and more people want to get better at playing LoL because being in the Diamond or Challenger division is now a bragging right amongst your friends (and pro NA teams have 300,000+ fan bases). Where should you begin establishing your LoL coaching career, and where are all of the potential students? Here are 8 ways to start putting your League of Legends skills to work."
 author: "Bernard Huang"
 author_image: "https://pbs.twimg.com/profile_images/378800000420359228/a73e0d9f4cb08c28ebd9585a91d25c8b_400x400.jpeg"
 author_profile: "GameRunners Guy"
@@ -21,7 +21,7 @@ Where should you begin establishing your LoL coaching career, and where are all 
 
 *Note: Many LoL coaches start off free, establish credibility with students, and then start charging money.*
 
-## #1 **[Make a GameRunners Profile](http://www.gamerunners.gg/)** and Keep an Open Schedule
+## 1. **[Make a GameRunners Profile](http://www.gamerunners.gg/)** and Keep an Open Schedule
 
 <a href="http://www.gamerunners.gg/coaches/32">![Find LoL Students by Making a GameRunners Coaching Profile](/images/content/get-lol-students-gamerunners.png)</a>
 
@@ -29,7 +29,7 @@ Here on GameRunners, we have 100s of students every month looking for help with 
 
 Students won't be able to find you if you don't have availibities in your calendar so make sure to keep your coaching schedule up to date!
 
-## #2 Post to the /r/summonerschool Mentoring Thread
+## 2. Post to the /r/summonerschool Mentoring Thread
 
 <a href="http://www.reddit.com/r/summonerschool/wiki/mentoring">![Get LoL Students by Posting to Reddit Summoner School Mentoring Thread](/images/content/get-lol-students-reddit-summoner-school-mentoring-thread.png)</a>
 
@@ -39,7 +39,7 @@ Our coaches have lots of success in getting students when posting to this thread
 
 You can find a list of the past & future mentoring threads here: [http://www.reddit.com/r/summonerschool/wiki/mentoring](http://www.reddit.com/r/summonerschool/wiki/mentoring) 
 
-## #3 Make a Thread in /r/lolcoaching
+## 3. Make a Thread in /r/lolcoaching
 
 <a href="http://www.reddit.com/r/lolcoaching">![Create your own thread on /r/lolcoaching or find threads of students](/images/content/get-lol-students-post-to-r-lolcoaching.png)</a>
 
@@ -50,7 +50,7 @@ You can find a list of the past & future mentoring threads here: [http://www.red
 
 The community may be small for /r/lolcoaching but your thread will stay up for a long time since the volume of activity is quite low. You would be surprised how many students you will get by simply making 1 small post to this thread and having it stay on the front page for 1-2 months.
 
-## #4 Publish Articles On [GameRunners News](http://news.gamerunners.gg)
+## 4. Publish Articles On [GameRunners News](http://news.gamerunners.gg)
 
 ![Publish Articles on GameRunners News to build a bigger audience for LoL Students](/images/content/get-lol-students-publish-articles-to-news-gamerunners.png)
 
@@ -60,7 +60,7 @@ We have a community news section that's focused on getting your articles publish
 
 If you have any ideas on topics that you want to write, or have LoL articles that you want published - don't hesitate to reach out and contact us at [news@gamerunners.gg](mailto:news@gamerunners.gg?Subject=LoL%20Articles%20On%20GameRunners%20News). 
 
-## #5 Answer LoL Questions Quora and Link To Your Coaching Profile
+## 5. Answer LoL Questions Quora and Link To Your Coaching Profile
 
 <a href="http://www.quora.com/League-of-Legends">![Answer LoL Questions on Quora For Exposure to LoL Students](/images/content/get-lol-students-answer-lol-questions-on-quora.png)</a>
 
@@ -72,18 +72,18 @@ There are many summoners asking questions on Quora that are going unanswered. A 
 
 On average, each of these questions gets ~400 views, which can be many potential students for you!
 
-## #6 Create a LoL King Guide
+## 6. Create a LoL King Guide
 
 ![Find Potential Students by Creating a LoLKing Guide](/images/content/get-lol-students-create-a-lolking-guide.png)
 
 LoLKing has a lot of LoL players who go to [find guides on how to play their favorite champion and role](http://www.lolking.net/guides/). By creating a guide on LoLKing, you can have access to the millions of impressions. In your guide, you can put a section which talks about your LoL coaching details.
 
-## #7 Engage Twitch Streamers
+## 7. Engage Twitch Streamers
 
 <a href="http://www.twitch.tv/directory/game/League%20of%20Legends">![Engage Twitch Streamers to build lol student audience](/images/content/get-lol-students-engage-twitch-streams.jpg)</a>
 
 Creating a Twitch stream is a hard approach to building an audience these days. However, watching the many people who are playing LoL on Twitch who have low rankings can be a great way to build up an audience slowly. You can watch their stream and offer advice to the player in chat, which can lead to students!
 
-## #8 Facebook / Twitter
+## 8. Facebook / Twitter
 
 Sharing your coaching profile on Facebook and Twitter can be a way of getting LoL students in the door, but only if you already have friends who are interested in receiving your services. A good way of getting LoL students from Twitter would be to search "lol coaching", #lcs, or #alistar and reach out to fellow summoners!
