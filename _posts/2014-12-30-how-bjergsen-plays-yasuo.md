@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bjergsen's Yasuo"
+title:  "How Bjergsen Plays Yasuo"
 description: "Since Yasuo becomes such a dominant threat late in the game, especially in the hands of a player as skilled as Bjergsen, it’s important to understand how to effectively lane him. Gaining an early edge and leaping off to a good start can be the key to snowballing a game out of control and taking easy wins. "
 excerpt: "Since Yasuo becomes such a dominant threat late in the game, especially in the hands of a player as skilled as Bjergsen, it’s important to understand how to effectively lane him. Gaining an early edge and leaping off to a good start can be the key to snowballing a game out of control and taking easy wins. "
 author: "Nicholas Doucet"
