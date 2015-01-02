@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "8 Ways to Find Your First LoL Students and Make Money Teaching LoL"
-description: "Where should you begin establishing your LoL coaching career, and where are all of the potential students? I'm going to show you 8 ways to start putting your League of Legends skills to work."
+description: "How should you begin your LoL coaching career and where are all of the potential students? Here's 8 ways to start putting your LoL skills to work."
 excerpt: "More and more people want to get better at playing LoL because being in the Diamond or Challenger division is now a bragging right amongst your friends (and pro NA teams have 300,000+ fan bases). Where should you begin establishing your LoL coaching career, and where are all of the potential students? Here are 8 ways to start putting your League of Legends skills to work."
 author: "Bernard Huang"
 author_image: "https://pbs.twimg.com/profile_images/378800000420359228/a73e0d9f4cb08c28ebd9585a91d25c8b_400x400.jpeg"
