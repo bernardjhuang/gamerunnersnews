@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Alistar - How Pros Play Alistar"
+title: "Alistar - How Pros Like Hachani and Mata Play Alistar"
 description: "Alistar is a LoL champion, one who has been on the edges of the competition too much, but in our opinion, there is so much more to Alistar than what seems at the surface."
 excerpt: "Alistar is a LoL champion, one who has been on the edges of the competition too much, but in our opinion, there is so much more to Alistar than what seems at the surface. During Season 2, Alistar was still dominant, but after that the popularity has somewhat worn off. We still see Alistar play in a weekly match every now and then, but it never extends to something more than that. "
 author: "Paul C."
