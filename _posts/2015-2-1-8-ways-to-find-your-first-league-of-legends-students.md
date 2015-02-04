@@ -60,7 +60,7 @@ We have a community news section that's focused on getting your articles publish
 
 If you have any ideas on topics that you want to write, or have LoL articles that you want published - don't hesitate to reach out and contact us at [news@gamerunners.gg](mailto:news@gamerunners.gg?Subject=LoL%20Articles%20On%20GameRunners%20News). 
 
-## 5. Answer LoL Questions Quora and Link To Your Coaching Profile
+## 5. Answer LoL Questions on Quora and Link To Your Coaching Profile
 
 <a href="http://www.quora.com/League-of-Legends">![Answer LoL Questions on Quora For Exposure to LoL Students](/images/content/get-lol-students-answer-lol-questions-on-quora.png)</a>
 
