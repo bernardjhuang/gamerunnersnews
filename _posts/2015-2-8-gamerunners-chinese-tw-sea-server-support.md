@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GameRunners是一个LOL教学的网站"
+title: "GameRunners是一个 LoL 教学的网站"
 description: "GameRunners 现在有 Chinese，TW 跟 SEA 的服务器。我们有 1，000+ LOL 玩家如果你想教或者学这么打LOL。"
 excerpt: "GameRunners 现在有 Chinese，TW 跟 SEA 的服务器。我们有 1，000+ LOL 玩家如果你想教或者学这么打LOL。"
 author: "Bernard Huang"
