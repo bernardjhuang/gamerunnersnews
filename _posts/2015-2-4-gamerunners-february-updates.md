@@ -9,6 +9,7 @@ author_profile: "GameRunners Guy"
 author_coach: "mailto:bernard@gamerunners.gg"
 date: 2015-2-4
 categories: lol
+tags: gamerunners-updates
 thumbnail: "/images/content/gr-feb-splash.png"
 ---
 ![GameRunners new homepage](/images/content/gr-feb-splash.png)
