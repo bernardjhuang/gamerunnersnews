@@ -12,7 +12,7 @@ categories: lol
 thumbnail: "/images/content/snow-planetkey-dynamics.jpeg"
 ---
 
-We interviewed Mirco "Snow" Janke of PlanetKey Dynamics to get his perspective of the pro LoL scene. Hope you guys enjoy it!
+We interviewed Mirco "Snow" Janke of PlanetKey Dynamics to get his perspective of the pro LoL scene and LoL coaching. Hope you guys enjoy it!
 
 ## Mirco "Snow" Janke
 
