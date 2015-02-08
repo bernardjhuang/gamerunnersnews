@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "League of Legends Analysis"
 ---
 
 <div class="home">
