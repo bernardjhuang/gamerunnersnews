@@ -30,9 +30,9 @@ We started with little salaries - *50 euros / month* - and we took it! We eventu
 
 ### When you started playing LoL, did you think going pro was an option?
 
-Nope. The thing is for me, 
+Nope. 
 
-> if I play a game, I want to be better than my opponent. I don't like being bested.
+> The thing is for me, if I play a game, I want to be better than my opponent. I don't like being bested.
 
 I just started playing ranked 5s with friends. We noticed that we can win and at some point, we just started playing tournaments for fun, for money, and for RP. 
 
