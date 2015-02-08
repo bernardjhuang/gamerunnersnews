@@ -24,7 +24,7 @@ Oh god - that's a tough question. I remember back in Season 1, I started with my
 
 At some point Season 2, my friend and I were at 2300 (diamond back then) and we formed a team with all diamond players. We started playing on the ESL. I think the way that we got noticed was just the fact that we played [Go4LoL](http://www.nationalesl.com/us/lol/go4lol/) placed quite highly, picked up new members, picked up better players, and found new friends. Then, we got contacted by organizations who were interested in sponsoring us.
 
-We started with little salaries - *50 euros / month* - and we took it! We eventually started winning Go4LoLs, and got sponsored by [Playing Ducks](http://www.playing-ducks.com/) in April 2013. Next, we played in the [German scene EPS](http://www.esl.eu/de/lol/eps/) and qualified for the challenger series. 
+We started with little salaries - *50 euros / month* - and we took it! We eventually started winning Go4LoLs, and got sponsored by [Tick Trick and Duck](http://ticktrickandduck.com/) in April 2013. Next, we played in the [German scene EPS](http://www.esl.eu/de/lol/eps/) and qualified for the challenger series. 
 
 > Basically, the main idea was we had 5 friends, improved improved improved, and competed against really good players.
 
