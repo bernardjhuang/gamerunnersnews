@@ -49,7 +49,7 @@ It's definitely different when you have to play League of Legends for 6 hours a 
 
 To stay in the pro scene, I need a goal like winning a certain tournament to be able to practice 5 hours a day. 
 
-* How long do you practice every day individually and with your team?
+### How long do you practice every day individually and with your team?
 
 Well, right now, it's kind of difficult. The ESL pro team is building up and we're finalizing the roster right now. 
 
@@ -92,13 +92,13 @@ This is completely different from team to team. I can speak for our team - we've
 
 Doing roster changes might be a mistake but it also might be the right thing. Teams that got into the LCS have the mentality that switching players is the right thing. I still think everyone should have the opportunity to fix their issues. 
 
-> That's why you have a coach for, somebody's bad at certain things, just help them improve it! 
+> That's what you have a coach for, somebody's bad at certain things, just help them improve it! 
 
 I really like [C9](http://cloud9.gg/) as a team - they've been a team for over a year now and they consistently playing well in the LCS. I'm in a big fan of the concept of helping people fixing their problems. It might not be better for the short-term success of a team, but for long-term success, I believe it's better to help teammates improve. 
 
 Sometimes, a roster change brings fresh air - which is important. But, when your friend is gone, it might lower your mood and you might enjoy the game less. In the long run, that's very bad. 
 
-* What are your hopes and dreams as a pro LoL player? 
+### What are your hopes and dreams as a pro LoL player? 
 
 Should I give the standard now? that I want to be in the LCS and famous. 
 
@@ -134,10 +134,10 @@ I finished school pretty much half a year ago and now I'm working at PlanetKey D
 
 ### Where do you see your career going is it more towards managing these eSports organizations or do you want to own a team or manage large events?
 
-I like certain parts of the esports culture - managing events is one of them. We're starting our own tournament series right now with an invitation tournament for Heroes of the Storm. And we're working with some pretty cool partners there so I really like that perspective of organizing tournaments. I also really like marketing, not only in eSports, but just gaming in general.
+I like certain parts of the eSports culture - managing events is one of them. We're starting our own tournament series right now with an invitation tournament for Heroes of the Storm. And we're working with some pretty cool partners there so I really like that perspective of organizing tournaments. I also really like marketing, not only in eSports, but just gaming in general.
 
 ### Right, nowadays a lot of companies are looking to get into eSports. And, they don't have anything to do in particular to do with eSports but it's the company way of owning an NFL team where they can basically generate ads. Much like how Samsung has Samsung White and winning the LCS was a ton of impressions for all the people watching. You are starting to see a trend where companies are looking to pick up pro players and pro teams as a way of promoting their company and your interested in facilitating that activity?
 
-Yeah, that's pretty much what I want to do because there's a lot of potential. I'm really looking forward to the time when all companies are looking to eSports for marketing opportunities. PlanetKey decided to go into eSports because they thought it was a really interesting marketing opportunity. It started off with a small budget and suprisingly became much bigger. From an outside perspective, you really don't see what goes on to make these events happen. It's so much work but it's also so much fun.
+Yeah, that's pretty much what I want to do because there's a lot of potential. I'm really looking forward to the time when all companies are looking to eSports for marketing opportunities. PlanetKey decided to go into eSports because they thought it was a really interesting marketing opportunity. It started off with a small budget and surprisingly became much bigger. From an outside perspective, you really don't see what goes on to make these events happen. It's so much work but it's also so much fun.
 
 Help support PlanetKey Dynamics by [liking their Facebook page here](https://www.facebook.com/PKDynamics).
