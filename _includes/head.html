@@ -11,9 +11,21 @@
   {% endif %}
 
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}/">
   <link rel="icon" href="/images/gr-logo.png" type="image/x-icon" />
   <link href='http://fonts.googleapis.com/css?family=PT+Mono' rel='stylesheet' type='text/css'>
+
+  {% if page.title %}
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="og:site_name" content="GameRunners News" />
+    <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}/">
+    <meta property="og:description" content="{{ page.description }}" />
+    {% if page.thumbnail %}
+      <meta property="og:image" content="{{ page.thumbnail }}" />
+    {% endif %}
+    <meta property="fb:app_id" content="[439602816197306]" />
+    <meta property="og:type" content="article" />
+  {% endif %}
 
   <script type="text/javascript">var switchTo5x=true;</script>
   <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
