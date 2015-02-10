@@ -9,7 +9,7 @@ author_profile: "GameRunners Guy"
 author_coach: "mailto:bernard@gamerunners.gg"
 date: 2015-2-10
 categories: lol
-tags: pro-interview
+tags: pro-interviews
 thumbnail: "/images/content/rctic-malkkari-adc.jpg"
 ---
 
