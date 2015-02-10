@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Pro LoL Interview Series: Teemu 'Malkkari' Maliniemi of RCTIC Gaming"
-description: "We interviewed Teemu 'Malkkari' Maliniemi of RCTIC Gaming to get his perspective of the pro LoL scene. Hope you guys enjoy it!"
-excerpt: "We interviewed Teemu 'Malkkari' Maliniemi of RCTIC Gaming to get his perspective of the pro LoL scene. Hope you guys enjoy it!"
+title: "Pro LoL Interview Series: Teemu 'Malkkari' Maliniemi of RCTIC eSports"
+description: "We interviewed Teemu 'Malkkari' Maliniemi of RCTIC eSports to get his perspective of the pro LoL scene. Hope you guys enjoy it!"
+excerpt: "We interviewed Teemu 'Malkkari' Maliniemi of RCTIC eSports to get his perspective of the pro LoL scene. Hope you guys enjoy it!"
 author: "Bernard Huang"
 author_image: "https://pbs.twimg.com/profile_images/378800000420359228/a73e0d9f4cb08c28ebd9585a91d25c8b_400x400.jpeg"
 author_profile: "GameRunners Guy"
@@ -13,7 +13,7 @@ tags: pro-interview
 thumbnail: "/images/content/rctic-malkkari-adc.jpg"
 ---
 
-We interviewed Teemu "Malkkari" Maliniemi of RCTIC Gaming to get his perspective of the pro LoL scene. Hope you guys enjoy it!
+We interviewed Teemu "Malkkari" Maliniemi of RCTIC eSports to get his perspective of the pro LoL scene. Hope you guys enjoy it!
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/190381241&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
@@ -39,9 +39,9 @@ I found a few teammates in soloQ and we wanted to get to get sponsorship and hel
 ### Has being pro affected your game? 
 It's more stressful now - I have a different mindset. Now, I want to constantly get better at the game. 
 
-## RCTIC Gaming
+## RCTIC eSports
 
-![RCTIC Gaming](/images/content/rctic-gaming.png)
+![RCTIC eSports](/images/content/rctic-gaming.png)
 
 ### How were you guys able to take the LanTrek 2014 tournament?
 We practiced a lot of rank 5s and SoloQ and we kinda knew we were the best team. We actually didn't lose a single game there. It was my first LAN event that I won. 
@@ -78,6 +78,6 @@ Get to the Challenger Series and who's knows maybe LCS.
 ### What about 5 years?
 I probably want to be involved in eSports in some way. But I don't plan that far ahead. I kinda just go with the flow.
 
-Please help support RCTIC gaming by [following them on Twitter](https://twitter.com/rcticesp/) and [liking their facebook page](https://www.facebook.com/RCTIC)!
+Please help support RCTIC eSports by [following them on Twitter](https://twitter.com/rcticesp/) and [liking their facebook page](https://www.facebook.com/RCTIC)!
 
-- Bernard
+Bernard
