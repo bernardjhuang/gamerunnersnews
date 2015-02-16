@@ -99,7 +99,9 @@ Focus on your mistakes and what you can control. Don't blame your team-mates, bl
 
 ### Do you guys scout the ladder and LoLKing / op.gg? Or do you guys scout particular tournaments?
  
-We have an academy so we don't scout people; they come to us in order to learn. We have 3 teams right now, the one in the LCS (that's the main team) the Underdogs which compete in the [LVP](http://www.lvp.es/) (amateur Spanish league) and the one we are developing at the academy (info will be released soon). Since we are a Spanish team, at the moment we only look for Spanish players. We take a look at Spanish forums and Spanish leagues in order to have access to the best talent pool. 
+We have an academy so we don't scout people; they come to us in order to learn. We have 3 teams right now, the one in the LCS (that's the main team) the Underdogs which compete in the [LVP](http://www.lvp.es/) (amateur Spanish league) and the one we are developing at the academy (info will be released soon). 
+
+> Since we are a Spanish team, at the moment, we only look for Spanish players. We take a look at Spanish forums and Spanish leagues in order to have access to the best talent pool. 
 
 And as far as it goes, we have succeeded.
 
