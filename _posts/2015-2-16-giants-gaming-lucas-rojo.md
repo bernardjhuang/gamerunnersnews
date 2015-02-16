@@ -95,7 +95,9 @@ But I really think I could've done things in a different way.
 
 ### What kind of advice do you have to tell aspiring LoL players of how they can get noticed by professional teams like GIANTS! Gaming? 
 
-Focus on your mistakes and what you can control. Don't blame your team-mates, blame yourself for not being able to carry your lane. As Lee Sin says, master yourself, master the enemy. The best way to improve is to win the battle with your inner self. Ego is bad, a player can be replaced but the impact he makes on a team can't. Make yourself valuable for the team, provide to your teammates, not only in the game, but outside of it. Try to build a strong relationship between your teams management and yourself. Don't try to win games instead, focus on learning from them.
+Focus on your mistakes and what you can control. Don't blame your team-mates, blame yourself for not being able to carry your lane. As Lee Sin says, master yourself, master the enemy. 
+
+> The best way to improve is to win the battle with your inner self. Ego is bad, a player can be replaced but the impact he makes on a team can't. Make yourself valuable for the team, provide to your teammates, not only in the game, but outside of it. Try to build a strong relationship between your teams management and yourself. Don't try to win games instead, focus on learning from them.
 
 ### Do you guys scout the ladder and LoLKing / op.gg? Or do you guys scout particular tournaments?
  
