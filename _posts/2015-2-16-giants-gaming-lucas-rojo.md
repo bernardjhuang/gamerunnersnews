@@ -37,6 +37,8 @@ I really think that my content for OGSeries was really good. I did analysis on t
 
 The content that I produced for the other websites was really nice too but I have a warm feeling when it comes to the OGSeries days.
 
+![Dimegio Club logo](/images/content/dimegio.png)
+
 ### How did you become the COO of Dimegio?
 
 I was working at an Spanish LAN event called Final Cup 5 as Public Relations, I solved issues with media and VIPs. In the VIP Zone, I met the CEO of Dimegio and we talk about eSports stuff and I made a good impression on him. So after I left the organization I was working with, I reached out to him and I decided I wanted to join the project. As for the project itself it felt appealing at first but then it decayed as the year progressed.
