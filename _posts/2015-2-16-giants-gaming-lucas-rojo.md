@@ -2,7 +2,7 @@
 layout: post
 title: "Pro LoL Interview: Lucas Rojo, Academy Coach of Giants Gaming"
 description: "Lucas has been in eSports scene for 11 years now, working at 2K (coach & exhibitor), Dimegio (COO & content manager), and he's now the academy coach for Giants Gaming."
-excerpt: "Lucas has been in eSports scene for 11 years now, working at 2K (coach & exhibitor), Dimegio (COO & content manager), and he's now the academy coach for [GIANTS! Gaming](http://www.giantsgaming.pro/). Lucas is most passionate about coaching young adults and giving them the tools to succeed in what they do."
+excerpt: "Lucas has been in eSports scene for 11 years now, working at 2K (coach & exhibitor), Dimegio (COO & content manager), and he's now the academy coach for Giants Gaming]. Lucas is most passionate about coaching young adults and giving them the tools to succeed in what they do."
 author: "Bernard Huang"
 author_image: "https://pbs.twimg.com/profile_images/378800000420359228/a73e0d9f4cb08c28ebd9585a91d25c8b_400x400.jpeg"
 author_profile: "GameRunners Guy"
