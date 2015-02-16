@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Pro LoL Interview: Lucas Rojo, Academy Coach of Giants! Gaming"
-description: "Lucas has been in eSports scene for 11 years now, working at 2K (coach & exhibitor), Dimegio (COO & content manager), and he's now the academy coach for Giants! Gaming."
+title: "Pro LoL Interview: Lucas Rojo, Academy Coach of Giants Gaming"
+description: "Lucas has been in eSports scene for 11 years now, working at 2K (coach & exhibitor), Dimegio (COO & content manager), and he's now the academy coach for Giants Gaming."
 excerpt: "Lucas has been in eSports scene for 11 years now, working at 2K (coach & exhibitor), Dimegio (COO & content manager), and he's now the academy coach for [GIANTS! Gaming](http://www.giantsgaming.pro/). Lucas is most passionate about coaching young adults and giving them the tools to succeed in what they do."
 author: "Bernard Huang"
 author_image: "https://pbs.twimg.com/profile_images/378800000420359228/a73e0d9f4cb08c28ebd9585a91d25c8b_400x400.jpeg"
@@ -13,19 +13,19 @@ tags: pro-interviews
 thumbnail: "https://media.licdn.com/media/p/2/005/08a/0f1/33bb1c0.jpg"
 ---
 
-## Lucas Rojo, Academy Coach of Giants! Gaming
+## Lucas Rojo, Academy Coach of Giants Gaming
 
-Lucas has been in eSports scene for 11 years now, working at [2K](https://www.2k.com/) (coach & exhibitor), [Dimegio](http://www.dimegioclub.com/) (COO & content manager), and he's now the academy coach for [Giants! Gaming](http://www.giantsgaming.pro/). Lucas is most passionate about coaching young adults and giving them the tools to succeed in what they do.
+Lucas has been in eSports scene for 11 years now, working at [2K](https://www.2k.com/) (coach & exhibitor), [Dimegio](http://www.dimegioclub.com/) (COO & content manager), and he's now the academy coach for [Giants Gaming](http://www.giantsgaming.pro/). Lucas is most passionate about coaching young adults and giving them the tools to succeed in what they do.
 
-![Lucas Rojo of Giants! Gaming](https://media.licdn.com/media/p/2/005/08a/0f1/33bb1c0.jpg)
+![Lucas Rojo of Giants Gaming](https://media.licdn.com/media/p/2/005/08a/0f1/33bb1c0.jpg)
 
 ### It looks like you started your eSports career by being a media manager of HaloSpain, how did you get involved with HaloSpain?
 
 I was a Halo player at first, I enjoyed it's community so I decided to get involved in it. I knew some photoshop and I really wanted to produce content for them so that's how I started. I really enjoyed working with them and help developing the Halo community here in Spain.
 
-### How did you leverage your position of media manager at HaloSpain to become a journalist at Giants! Gaming, a league admin at ESL, and the community manager of Wizards eSports club?
+### How did you leverage your position of media manager at HaloSpain to become a journalist at Giants Gaming, a league admin at ESL, and the community manager of Wizards eSports club?
 
-I joined Giants! with one purpose, to make interviews. I really wanted a 1 on 1 atmosphere where I could ask interesting and controversial questions. I really enjoyed my time there even though it was a short time. 
+I joined Giants with one purpose, to make interviews. I really wanted a 1 on 1 atmosphere where I could ask interesting and controversial questions. I really enjoyed my time there even though it was a short time. 
 
 When I became a league admin I knew some stuff from the Halo days when we use to run some leagues and tournaments on our own, so I used my knowledge to improve the infrastructure they had on ESL. 
 
@@ -59,9 +59,9 @@ You really have to step it up when your player is not at his full potential, whe
 
 > Don't blame the player’s, blame yourself for not being able to provide them a good training environment. At the end of the day if the team loses, it doesn't matter whose fault it was.
 
-![Giants! Gaming logo](/images/content/giants-gaming-logo.png)
+![Giants Gaming logo](/images/content/giants-gaming-logo.png)
 
-### What made you quit and become the academy coach at Giants! Gaming?
+### What made you quit and become the academy coach at Giants Gaming?
 
 I left Dimegio seeking new opportunities, a new environment. When I was the managing director at Dimegio I basically ran it on my own, and I didn't like that. I love coaching, I enjoy doing it and even though this is a "downgrade" I can reach my full potential and demonstrate I can become the best western coach in League of legends. I know that sounds bold but I'm confident enough and I really know I can achieve my goals.
 
@@ -93,7 +93,7 @@ But I really think I could've done things in a different way.
 
 > The more friends you have, the more opportunities.
 
-### What kind of advice do you have to tell aspiring LoL players of how they can get noticed by professional teams like Giants! Gaming? 
+### What kind of advice do you have to tell aspiring LoL players of how they can get noticed by professional teams like Giants Gaming? 
 
 Focus on your mistakes and what you can control. Don't blame your team-mates, blame yourself for not being able to carry your lane. As Lee Sin says, master yourself, master the enemy. 
 
@@ -107,4 +107,4 @@ We have an academy so we don't scout people; they come to us in order to learn. 
 
 And as far as it goes, we have succeeded.
 
-**Help support Giants! Gaming by [liking their Facebook page](https://www.facebook.com/GiantsGaming) and [following them on Twitter](https://twitter.com/giantsgaming).**
+**Help support Giants Gaming by [liking their Facebook page](https://www.facebook.com/GiantsGaming) and [following them on Twitter](https://twitter.com/giantsgaming).**
