@@ -35,7 +35,7 @@ And for Wizards, what can I say? It's really easy when you come from a content p
 
 I really think that my content for OGSeries was really good. I did analysis on the League of legends meta-game and I even did an in-depth analysis on [Rekkles](http://lol.gamepedia.com/Rekkles) (ex-Fantic player) and his performance at Worlds. As I said, my most successful piece was the Rekkles one since I really got into it. I had stats popping out of the website so you could really see how good (and overrated) he was.
 
-The content that I produced for the other websites was really nice too but I have a warm feeling when it comes to the OGSeries days.
+The content that I produced for the other websites was really nice too but I have a warm feeling when it comes to the [OGSeries](http://www.ogseries.tv/) days.
 
 ![Dimegio Club logo](/images/content/dimegio.png)
 
