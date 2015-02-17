@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "职业英雄联盟选手采访： Lucas Rojo，Giants Gaming的学术教练 "
+title: "职业英雄联盟选手采访： Lucas Rojo，Giants Gaming的学术教练"
 description: "Lucas在电子竞技领域至今已有11年，曾工作于2K（以教练和参展商身份），Dimegio（以COO和内容管理员身份），目前他是Giants Gaming的学术教练。Lucas最热衷于为小伙子们执教，给他们工具，让他们在自己的道路上获得成功。"
 excerpt: "Lucas在电子竞技领域至今已有11年，曾工作于2K（以教练和参展商身份），Dimegio（以COO和内容管理员身份），目前他是Giants Gaming的学术教练。Lucas最热衷于为小伙子们执教，给他们工具，让他们在自己的道路上获得成功。"
 author: "Bernard Huang"
