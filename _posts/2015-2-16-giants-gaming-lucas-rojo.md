@@ -13,6 +13,7 @@ tags: pro-interviews
 thumbnail: "https://media.licdn.com/media/p/2/005/08a/0f1/33bb1c0.jpg"
 ---
 
+
 ## Lucas Rojo, Academy Coach of Giants Gaming
 
 Lucas has been in eSports scene for 11 years now, working at [2K](https://www.2k.com/) (coach & exhibitor), [Dimegio](http://www.dimegioclub.com/) (COO & content manager), and he's now the academy coach for [Giants Gaming](http://www.giantsgaming.pro/). Lucas is most passionate about coaching young adults and giving them the tools to succeed in what they do.
