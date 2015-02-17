@@ -107,4 +107,4 @@ Lucas在电子竞技领域至今已有11年，曾工作于[2K](https://www.2k.co
 
 就当下看，我们成功了。
 
-**帮助支持Giants Gaming：为他们的Facebook页面点赞并在Twitter上关注他们。**
+**帮助支持Giants Gaming：为他们的[Facebook页](https://www.facebook.com/GiantsGaming)面点赞并在[Twitter](https://twitter.com/giantsgaming)上关注他们。**
