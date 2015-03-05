@@ -56,7 +56,7 @@ Coaching response rates and response times are calculated based off your last mo
 
 ![GameRunners coaching profile response rate & time](/images/content/gamerunners-profile-response-rate-time.png)
 
-This helps students have a better understanding of if a coach will reply to a request and how quickly it takes to respond to their requests.
+This helps students have a better understanding of how long it'll take for a coach to reply and how frequently the coach does reply to coaching requests.
 
 ## LoL Student Features - Better Search
 
