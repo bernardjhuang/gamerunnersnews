@@ -22,9 +22,9 @@ We've asked all of you for feedback on how we can make GameRunners better for yo
 
 <a href="http://www.gamerunners.gg/schedule/edit">![GameRunners draggable schedules](/images/content/gamerunners-draggable-schedule.png)</a>
 
-<a href="http://www.gamerunners.gg/schedule/edit">![GameRunners active schedules](/images/content/gamerunners-active-schedule.png)</a>
-
 Remember when you had to manually click on each slot to indicate an availability? **Well, those days are no longer!** We've made setting schedules a lot easier by letting you drag to select multiple time slots. 
+
+<a href="http://www.gamerunners.gg/schedule/edit">![GameRunners active schedules](/images/content/gamerunners-active-schedule.png)</a>
 
 Also, setting a schedule indicated to students that you have time slots available for coaching, which gets you better search visibility on GameRunners.
 
@@ -51,10 +51,12 @@ Also, if you have any requirements from potential students, you can now indicate
 ### Response Rates & Times
 
 ![GameRunners search response rate & time](/images/content/gamerunners-search-response-rate-time.png)
-<br><br>
+
+Coaching response rates and response times are calculated based off your last month of coaching activity on GameRunners. When you receive a coaching request from a potential student, we display the amount of time it takes you on average to respond to the request and what % of the requests you reply to. 
+
 ![GameRunners coaching profile response rate & time](/images/content/gamerunners-profile-response-rate-time.png)
 
-Coaching response rates and response times are calculated based off your last month of coaching activity on GameRunners. When you receive a coaching request from a potential student, we display the amount of time it takes you on average to respond to the request and what % of the requests you reply to. This helps students have a better understanding of if a coach will reply to a request and how quickly it takes to respond to their requests.
+This helps students have a better understanding of if a coach will reply to a request and how quickly it takes to respond to their requests.
 
 ## LoL Student Features - Better Search
 
