@@ -18,7 +18,7 @@ We've asked all of you for feedback on how we can make GameRunners better for yo
 
 <a href="http://www.gamerunners.gg/coaching_profile/edit?view=details">![GameRunners Coaching feature updates](/images/content/gamerunners-updated-coaching-profile.png)</a>
 
-### Draggable Schedules
+### Click & Drag to Select Select Availabilities
 
 <a href="http://www.gamerunners.gg/schedule/edit">![GameRunners draggable schedules](/images/content/gamerunners-draggable-schedule.png)</a>
 
