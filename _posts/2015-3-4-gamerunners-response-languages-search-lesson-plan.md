@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "GameRunners Update: Coaching Features, Response Rates, Improved Search"
-description: ""
-excerpt: ""
+description: "We've asked all of you for feedback on how we can make GameRunners better for you and as a result, we've been able to crank out many many improvements for all of you - thanks a bunch!"
+excerpt: "We've asked all of you for feedback on how we can make GameRunners better for you and have gotten a lot of great feedback over the last couple of weeks. As a result, we've been able to crank out many many improvements for all of you - thanks a bunch!"
 author: "Bernard Huang"
 author_image: "https://pbs.twimg.com/profile_images/378800000420359228/a73e0d9f4cb08c28ebd9585a91d25c8b_400x400.jpeg"
 author_profile: "GameRunners Guy"
