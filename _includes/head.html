@@ -5,9 +5,9 @@
 
   <title>{% if page.title %}{{ page.title }}{% else %}League of Legends Analysis | {{ site.title }}{% endif %}</title>
   {% if page.description %}
-    <meta name="description" content="{{page.description}}" />
+  <meta name="description" content="{{page.description}}" />
   {% else %}
-    <meta name="description" content="{{site.description}}" />
+  <meta name="description" content="{{site.description}}" />
   {% endif %}
 
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
@@ -16,14 +16,14 @@
   <link href='http://fonts.googleapis.com/css?family=PT+Mono' rel='stylesheet' type='text/css'>
 
   {% if page.title %}
-    <meta property="og:title" content="{{ page.title }}" />
-    <meta property="og:site_name" content="GameRunners News" />
-    <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}/">
-    <meta property="og:description" content="{{ page.description }}" />
-    {% if page.thumbnail %}
-      <meta property="og:image" content="http://news.gamerunners.gg{{ page.thumbnail }}" />
-    {% endif %}
-    <meta property="og:type" content="article" />
+  <meta property="og:title" content="{{ page.title }}" />
+  <meta property="og:site_name" content="GameRunners News" />
+  <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}/">
+  <meta property="og:description" content="{{ page.description }}" />
+  {% if page.thumbnail %}
+  <meta property="og:image" content="http://news.gamerunners.gg{{ page.thumbnail }}" />
+  {% endif %}
+  <meta property="og:type" content="article" />
   {% endif %}
 
   <script type="text/javascript">var switchTo5x=true;</script>
