@@ -41,9 +41,13 @@ thumbnail: "/images/content/gamerunners-updated-coaching-profile.png"
 在课程安排中，你可以设置学生可从你这里获得的期望。你的偏好执教风格如何？
 
 • 回放分析
+
 • 一对一执教
+
 • DuoQ
+
 • 共享屏幕
+
 • 磨砺理论
 
 另外，如果你对潜在的学术有任何要求，现在都可以指定。
