@@ -7,7 +7,7 @@ author: "Bernard Huang"
 author_image: "https://pbs.twimg.com/profile_images/378800000420359228/a73e0d9f4cb08c28ebd9585a91d25c8b_400x400.jpeg"
 author_profile: "GameRunners Guy"
 author_coach: "mailto:bernard@gamerunners.gg"
-date: 2015-3-11
+date: 2015-3-13
 categories: lol
 thumbnail: "/images/content/community-gaming-league-launch.png"
 ---
